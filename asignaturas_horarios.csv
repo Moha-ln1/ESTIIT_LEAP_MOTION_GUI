@@ -1,0 +1,156 @@
+Asignatura,Hora Inicio,Hora Fin,Aula
+Desconocida,8:30,9:30,Análisis
+Desconocida,9:30,10:30,AM
+Desconocida,10:30,11:30,FI
+Desconocida,11:30,12:30,ACAC
+Desconocida,12:30,13:30,ACAC
+Desconocida,13:30,14:30,N/A
+Desconocida,16:30,17:30,N/A
+Desconocida,18:30,19:30,N/A
+Desconocida,20:30,21:30,Grado
+Desconocida,8:30,9:30,N/A
+Desconocida,10:30,11:30,N/A
+Desconocida,12:30,13:30,N/A
+Desconocida,15:30,16:30,AL
+Desconocida,16:30,17:30,AL
+Desconocida,17:30,18:30,AMAC
+Desconocida,18:30,19:30,AMAC
+Desconocida,19:30,20:30,Ingeniería
+Desconocida,20:30,21:30,Grado
+B2 (A1) FP(A2) TO(A1)ST(A3),8:30,9:30,2
+B2 (A1)ST(A2)ST(A1)FP(A2)TC(A3)TC(A1)TO(A2) TC(A2)TO(A3)TO(A1)ST(A3),9:30,10:30,FP
+B2 (A1)ST(A2)ST(A1)FP(A2)TC(A3)TC(A1)TO(A2) TC(A2)TO(A3),10:30,11:30,STST
+Desconocida,11:30,12:30,ST
+Desconocida,12:30,13:30,FP
+Desconocida,13:30,14:30,N/A
+Desconocida,16:30,17:30,N/A
+Desconocida,18:30,19:30,N/A
+Desconocida,20:30,21:30,Grado
+Desconocida,8:30,9:30,N/A
+Desconocida,10:30,11:30,N/A
+Desconocida,12:30,13:30,N/A
+Desconocida,15:30,16:30,FP
+Desconocida,16:30,17:30,FP
+Desconocida (B1)FP(B2)FP(B1)TO(B2)STST(B1)TC(B2),17:30,18:30,TC
+Desconocida (B1)FP(B2)FP(B1)TO(B2)TO(B1)ST(B2)ST(B1)TC(B2),18:30,19:30,TO
+B2 (B2)FP(B1) TO(B1)ST(B2),19:30,20:30,2
+Desconocida,20:30,21:30,Grado
+Desconocida,8:30,9:30,Comunicaciones
+Desconocida (A1)C2(A2)SED (A3)SED EPEP(A1)SC(A2)SED(A1)TDRC(A2),9:30,10:30,EP
+Desconocida (A1)C2(A2)SED (A3)SED EPEP(A1)SC(A2)SED(A1)TDRC(A2),10:30,11:30,SC
+Desconocida,11:30,12:30,SC
+Desconocida,12:30,13:30,SC
+Desconocida,13:30,14:30,N/A
+Desconocida,16:30,17:30,N/A
+Desconocida,18:30,19:30,N/A
+Desconocida,20:30,21:30,Grado
+Desconocida,8:30,9:30,N/A
+Desconocida,10:30,11:30,N/A
+Desconocida,12:30,13:30,N/A
+Desconocida,15:30,16:30,C2
+Desconocida,16:30,17:30,C2
+Desconocida (B1)EP(B2)SC(B1)SED(B2)C2(B1)TDRC(B2)SCSED(B1)C2(B2),17:30,18:30,SC
+Desconocida (B1)EP(B2)SC(B1)SED(B2)C2(B1)TDRC(B2)SCSED(B1)C2(B2),18:30,19:30,SED
+Desconocida,19:30,20:30,Transmisión
+Desconocida,20:30,21:30,Grado
+Desconocida (OA),8:30,9:30,TRD
+Desconocida (OA) CI CITRD(A1)CO (A2),9:30,10:30,LTLT
+Desconocida (OA)FF(OB)CO(A1)CI (A2)COTRD(A1)CO (A2)LT(OA),10:30,11:30,TCI
+Desconocida (OA)FF(OB)CO(A1)CI (A2)COCI(A1)TRD (A2)LT(OA),11:30,12:30,TH
+Desconocida,12:30,13:30,TH
+Desconocida,13:30,14:30,TH
+Desconocida,15:30,16:30,Comunicaciones
+Desconocida,16:30,17:30,Televisión
+Desconocida,17:30,18:30,N/A
+Desconocida,19:30,20:30,N/A
+Desconocida (OA)RAC(B1) RM(B1)DDR(B2) LTRAC(B2),8:30,9:30,FF
+Desconocida (OA)RAC(B1) RM(B1)DDR(B2)RMLTRAC(B2),9:30,10:30,LT
+Desconocida (OA)FF(OB)RACDDR(B1)RM(B2)RM LT(OA),10:30,11:30,TCI
+Desconocida (OA)FF(OB)RACDDR(B1)RM(B2)DDR LT(OA),11:30,12:30,TH
+Desconocida,12:30,13:30,TH
+Desconocida,13:30,14:30,TH
+Desconocida,15:30,16:30,Redes
+Desconocida,16:30,17:30,Redes
+Desconocida,17:30,18:30,N/A
+Desconocida,19:30,20:30,N/A
+Desconocida (OA),8:30,9:30,CIC
+Desconocida (OA),9:30,10:30,CIC
+Desconocida (OA)FF(OB)CIC EE SC LT(OA),10:30,11:30,TCI
+Desconocida (OA)FF(OB)CIC EE SC LT(OA),11:30,12:30,TH
+Desconocida,12:30,13:30,TH
+Desconocida,13:30,14:30,TH
+Desconocida,15:30,16:30,Equipos
+A1,16:30,17:30,Sistemas
+Desconocida,17:30,18:30,N/A
+Desconocida,19:30,20:30,N/A
+Desconocida (OA),8:30,9:30,LTFF
+Desconocida (OA),9:30,10:30,LTLT
+Desconocida (OA)FF(OB) LT(OA),10:30,11:30,TCI
+Desconocida (OA)FF(OB) LT(OA),11:30,12:30,TH
+Desconocida,12:30,13:30,TH
+Desconocida,13:30,14:30,TH
+Desconocida,15:30,16:30,N/A
+Desconocida,17:30,18:30,N/A
+Desconocida,19:30,20:30,N/A
+Desconocida,8:30,9:30,N/A
+Desconocida,10:30,11:30,N/A
+Desconocida,12:30,13:30,N/A
+A1,15:30,16:30,FFI
+A1,16:30,17:30,FFI
+Desconocida (B1)FFI(B3)CCE(B1)SL(B2),17:30,18:30,SL
+Desconocida (B1)CCE(B2)SL(B1)FFI(B3)CCE(B1)SL(B2)FFI(B2)SL(B3)EO(B1)EDCN(B2),18:30,19:30,FFI
+Desconocida (B1)CCE(B2) CCE(B1) FFI(B2)SL(B3)EDCN(B1)EO(B2),19:30,20:30,SL
+A1 (B2),20:30,21:30,2
+Desconocida,8:30,9:30,Comunicaciones
+Desconocida (A1)IRC(A2)SD(A3),9:30,10:30,IRC
+Desconocida (A1)IRC(A2)SD(A3),10:30,11:30,IRC
+Desconocida (A1)EA(A2)SD(A1)C1(A2)IRC(A3)C1(A1)ED(A2)EA(A3)ED (A1)SD(A2)C1(A3),11:30,12:30,IRC
+Desconocida (A1)EA(A2)SD(A1)C1(A2)IRC(A3)C1(A1)ED(A2)EA(A3)ED (A1)SD(A2)C1(A3),12:30,13:30,SD
+Desconocida,13:30,14:30,N/A
+Desconocida,16:30,17:30,N/A
+Desconocida,18:30,19:30,N/A
+Desconocida,20:30,21:30,Grado
+Desconocida,8:30,9:30,N/A
+Desconocida,10:30,11:30,N/A
+Desconocida,12:30,13:30,N/A
+Desconocida (B1)ED(B2)EA(B1)IRC(B2)ED(B1)C1(B2)SD(B1)EA(B2)C1(B1)SD(B2),15:30,16:30,C1
+Desconocida (B1)ED(B2)EA(B1)IRC(B2)ED(B1)C1(B2)SD(B1)EA(B2)C1(B1)SD(B2),16:30,17:30,EA
+Desconocida,17:30,18:30,Electrónica
+Desconocida,18:30,19:30,Infraestructuras
+Desconocida,19:30,20:30,Señales
+Desconocida,20:30,21:30,Grado
+A1 (A1)SCA  (A2),8:30,9:30,2
+Desconocida (A1)SR(A2)SR (A1)SCA (A2)SCATDS(A1)AP(A2),9:30,10:30,SRAP
+Desconocida (A1)SR(A2)MCO SCATDS(A1)AP(A2),10:30,11:30,SRMCO
+Desconocida,11:30,12:30,TDSAP
+Desconocida,12:30,13:30,TDSAP
+Desconocida,13:30,14:30,Tratamiento
+Desconocida,15:30,16:30,N/A
+Desconocida,17:30,18:30,N/A
+Desconocida,19:30,20:30,N/A
+Desconocida,8:30,9:30,Complementos
+Desconocida (A1)RIM(A2)SRC(A1)DAR(A2)GR(A1)SRC(A2)CP(A1)GR(A2)RIM(A1)CP(A2),9:30,10:30,DAR
+Desconocida (A1)RIM(A2)SRC(A1)DAR(A2)GR(A1)SRC(A2)CP(A1)GR(A2)RIM(A1)CP(A2),10:30,11:30,GR
+Desconocida,11:30,12:30,GR
+Desconocida,12:30,13:30,GR
+Desconocida,13:30,14:30,N/A
+Desconocida,16:30,17:30,N/A
+Desconocida,18:30,19:30,N/A
+Desconocida,20:30,21:30,en
+Desconocida,8:30,9:30,Circuitos
+Desconocida,9:30,10:30,SALDCSE
+Desconocida,10:30,11:30,SALDCSE
+Desconocida (A1)DCSE (A2),11:30,12:30,SAL
+Desconocida (A1)DCSE (A2),12:30,13:30,SAL
+Desconocida,13:30,14:30,CERF3
+Desconocida,15:30,16:30,N/A
+Desconocida,17:30,18:30,N/A
+Desconocida,19:30,20:30,N/A
+Desconocida,8:30,9:30,N/A
+Desconocida (OA)PVD (OA)PSETR(OA)PSETR(OB)AET(OA)FAT (OA),10:30,11:30,CAM
+Desconocida,11:30,12:30,PVD
+Desconocida,12:30,13:30,PVD
+Desconocida,13:30,14:30,Procesamiento
+Desconocida,15:30,16:30,N/A
+Desconocida,17:30,18:30,N/A
+Desconocida,19:30,20:30,N/A
