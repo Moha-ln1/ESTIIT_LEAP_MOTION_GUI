@@ -1,0 +1,6408 @@
+Lunes
+
+Martes
+
+ALEM
+
+ALEM
+
+1º A Grado en Ingeniería Informática
+1er. cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+FP
+
+FFT
+
+FS
+
+ALEM. Álgebra Lineal y Estructuras Matemáticas
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+
+0.3
+
+0.3
+
+0.3
+
+0.3
+
+0.3
+
+CA
+
+FP
+
+FS
+
+FFT
+
+ALEM
+
+0.3
+
+CA (A1)
+
+FFT (A2)
+
+0.3
+
+FS (A3)
+
+FFT (A1)
+
+FP (A2)
+
+0.3
+
+ALEM (A3)
+
+FP (A1)
+
+FS (A2)
+
+0.3
+
+FFT (A3)
+
+CA
+
+CA Cálculo
+FFT. Fundamentos Físicos y Tecnológicos
+
+0.3
+
+FS (A1)
+
+ALEM (A2)
+
+FP(A3)
+
+3.3
+
+3.6
+
+2.8
+
+3.6
+
+2.2
+
+0.3
+
+2.6
+
+3.5
+
+3.6
+
+0.3
+
+2.6
+
+0.3
+
+3.3
+
+ALEM (A1)
+
+FFT (A2)
+
+FS (A3)
+
+FFT (A1)
+
+FP (A2)
+
+CA (A3)
+
+FP (A1)
+
+FS (A2)
+
+FFT (A3)
+
+CA
+
+FS (A1)
+
+CA (A2)
+
+FP(A3)
+
+1.5
+
+3.6
+
+2.8
+
+3.6
+
+2.2
+
+3.5
+
+2.6
+
+3.5
+
+3.6
+
+0.3
+
+2.6
+
+3.2
+
+3.3
+
+FP. Fundamentos de Programación
+FS. Fundamentos del Software
+
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+Martes
+
+LMD
+
+ES
+
+1º A Grado en Ingeniería Informática
+2º cuatrimestre
+Miércoles
+
+Jueves
+
+MP
+
+IES
+
+Viernes
+
+ES. Estadística
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+TOC (A2)
+
+MP (A3)
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+2.2
+
+3.8
+
+3.1
+
+LMD
+
+ES
+
+ES
+
+IES
+
+LMD (A1)
+
+TOC (A2)
+
+MP (A3)
+
+0.2
+
+1.3
+
+3.8
+
+3.1
+
+0.2
+
+MP (A1)
+
+ES (A1)
+
+LMD (A2)
+
+0.2
+
+TOC (A3)
+
+IES
+
+0.2
+
+TOC (A1)
+
+MP (A2)
+
+ES (A3)
+
+LMD
+
+TOC
+
+2.4
+
+1.2
+
+3.8
+
+0.2
+
+3.8
+
+3.1
+
+3.7
+
+0.2
+
+0.2
+
+MP (A1)
+
+ES (A2)
+
+TOC (A3)
+
+IES
+
+TOC (A1)
+
+MP (A2)
+
+LMD (A3)
+
+MP
+
+TOC
+
+2.4
+
+2.2
+
+3.8
+
+0.2
+
+3.8
+
+3.1
+
+1.2
+
+0.2
+
+0.2
+
+IES. Ingeniería, Empresa y Sociedad
+LMD. Lógica y Métodos Discretos.
+MP. Metodología de la Programación.
+TOC. Tecnología y Organización de los Computadores.
+
+Lunes
+
+Martes
+
+1º B Grado en Ingeniería Informática
+1er. cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+ALEM. Álgebra Lineal y Estructuras Matemáticas
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+
+ALEM (B1)
+
+FFT (B2)
+
+FP (B3)
+
+FS (B1)
+
+FP (B2)
+
+FFT (B3)
+
+FS
+
+FP (B1)
+
+FS (B2)
+
+CA (B3)
+
+FFT (B1)
+
+ALEM (B2)
+
+FS (B3)
+
+1.5
+
+3.6
+
+3.3
+
+2.2
+
+3.5
+
+3.6
+
+0.6
+
+2.3
+
+3.5
+
+2.2
+
+3.6
+
+1.7
+
+3.5
+
+CA (B1)
+
+FFT (B2)
+
+FP (B3)
+
+FS (B1)
+
+FP (B2)
+
+FFT (B3)
+
+FS
+
+FP (B1)
+
+FS (B2)
+
+ALEM (B3)
+
+FFT (B1)
+
+CA (B2)
+
+FS (B3)
+
+3.6
+
+3.3
+
+2.2
+
+3.5
+
+3.6
+
+0.6
+
+2.3
+
+3.5
+
+0.6
+
+3.6
+
+2.6
+
+3.5
+
+3.9
+
+CA
+
+CA
+
+ALEM
+
+FP
+
+FFT
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+ALEM
+
+CA
+
+ALEM
+
+FP
+
+FFT
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+Jueves
+
+Viernes
+
+CA. Cálculo
+FFT. Fundamentos Físicos y Tecnológicos
+FP. Fundamentos de Programación
+FS. Fundamentos del Software
+
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+Martes
+
+1º B Grado en Ingeniería Informática
+2º cuatrimestre
+Miércoles
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+LMD
+
+TOC (B1)
+
+MP (B2)
+
+ES (B3)
+
+MP (B1)
+
+ES (B2)
+
+TOC (B3)
+
+ES (B1)
+
+TOC (B2)
+
+MP (B3)
+
+ES
+
+0.6
+
+3.8
+
+3.1
+
+3.2
+
+2.3
+
+2.2
+
+3.8
+
+2.3
+
+3.8
+
+2.6
+
+0.6
+
+LMD
+
+TOC (B1)
+
+MP (B2)
+
+LMD (B3)
+
+MP (B1)
+
+LMD (B2)
+
+TOC (B3)
+
+LMD (B1)
+
+TOC (B2)
+
+MP (B3)
+
+ES
+
+0.6
+
+3.8
+
+3.1
+
+1.8
+
+2.3
+
+0.6
+
+3.8
+
+0.6
+
+3.8
+
+2.6
+
+IES
+
+ES
+
+LMD
+
+TOC
+
+ES. Estadística
+IES. Ingeniería, Empresa y Sociedad
+LMD. Lógica y Métodos Discretos.
+
+0.6
+
+IES
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+IES
+
+MP
+
+MP
+
+TOC
+
+IES
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+MP. Metodología de la Programación.
+TOC. Tecnología y Organización de los Computadores.
+
+Lunes
+
+Martes
+
+1º C Grado en Ingeniería Informática
+1er. cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+CA
+
+FFT
+
+ALEM. Álgebra Lineal y Estructuras Matemáticas
+
+8:30-9:30
+FP
+
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+
+ALEM (C1)
+
+FP (C2)
+
+FS (C1)
+
+FFT (C2)
+
+0.1
+
+0.6
+
+2.6
+
+2.4
+
+3.6
+
+FP
+
+CA (C1)
+
+FP (C2)
+
+FS (C1)
+
+FFT (C2)
+
+2.6
+
+2.4
+
+0.1
+
+FP (C1)
+
+3.1
+
+ALEM (C2)
+
+ALEM
+
+3.6
+
+0.1
+
+FFT (C1)
+
+CA. Cálculo
+
+0.1
+
+FS (C2)
+
+FFT
+
+3.6
+
+2.4
+
+0.1
+
+CA
+
+FFT (C1)
+
+FS (C2)
+
+FS
+
+3.6
+
+2.2
+
+0.1
+
+0.1
+
+0.1
+
+FP (C1)
+
+CA (C2)
+
+ALEM
+
+CA
+
+ALEM
+
+2.4
+
+FS
+
+2.2
+
+3.3
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+Miércoles
+
+Jueves
+
+Viernes
+
+MP
+
+TOC
+
+IES
+
+FFT. Fundamentos Físicos y Tecnológicos
+FP. Fundamentos de Programación
+
+0.1
+
+FS. Fundamentos del Software
+
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+Martes
+
+IES
+
+ES
+
+1º C Grado en Ingeniería Informática
+2º cuatrimestre
+
+ES. Estadística
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+0.8
+
+0.8
+
+0.8
+
+0.8
+
+0.8
+
+IES
+
+LMD
+
+ES
+
+TOC
+
+IES
+
+0.8
+
+LMD
+
+0.8
+
+MP (C1)
+
+0.8
+
+TOC (C2)
+
+ES
+
+0.8
+
+TOC (C1)
+
+IES. Ingeniería, Empresa y Sociedad
+LMD. Lógica y Métodos Discretos.
+
+0.8
+
+LMD (C2)
+
+LMD (C1)
+
+MP (C2)
+
+0.8
+
+3.1
+
+3.8
+
+0.8
+
+3.8
+
+0.3
+
+0.4
+
+3.3
+
+MP
+
+MP (C1)
+
+TOC (C2)
+
+LMD
+
+TOC (C1)
+
+ES (C2)
+
+ES (C1)
+
+MP (C2)
+
+0.8
+
+3.1
+
+3.8
+
+0.8
+
+3.8
+
+2.3
+
+2.3
+
+3.3
+
+MP. Metodología de la Programación.
+TOC. Tecnología y Organización de los Computadores.
+
+Lunes
+
+Martes
+
+FP
+0.2
+
+1º D Grado en Ingeniería Informática
+1er. cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+FP
+
+CA
+
+FS
+
+CA (D1)
+
+FP (D2)
+
+FS (D3)
+
+0.2
+
+0.2
+
+0.2
+
+2.8
+
+2.3
+
+2.2
+
+CA
+
+ALEM
+
+ALEM
+
+FS
+
+ALEM (D1)
+
+FP (D2)
+
+FS (D3)
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+0.7
+
+2.3
+
+2.2
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+
+CA
+
+FFT (D1)
+
+CA (D2)
+
+FP (D3)
+
+FS (D1)
+
+FFT (D2)
+
+ALEM (D3)
+
+FP (D1)
+
+FS (D2)
+
+FFT (D3)
+
+FFT
+
+0.2
+
+3.6
+
+3.1
+
+2.3
+
+2.4
+
+3.6
+
+0.2
+
+2.2
+
+3.2
+
+3.6
+
+0.2
+
+ALEM
+
+FFT (D1)
+
+ALEM (D2)
+
+FP (D3)
+
+FS (D1)
+
+FFT (D2)
+
+CA (D3)
+
+FP (D1)
+
+FS (D2)
+
+FFT (D3)
+
+FFT
+
+0.2
+
+3.6
+
+1.7
+
+2.3
+
+2.4
+
+3.6
+
+2.2
+
+2.2
+
+3.2
+
+3.6
+
+0.2
+
+ALEM. Álgebra Lineal y Estructuras Matemáticas
+CA Cálculo
+FFT. Fundamentos Físicos y Tecnológicos
+FP. Fundamentos de Programación
+FS. Fundamentos del Software
+
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+Martes
+
+IES
+0.2
+
+1º D Grado en Ingeniería Informática
+2º cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+ES
+
+IES
+
+TOC
+
+LMD
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+IES
+
+ES
+
+IES
+
+TOC
+
+ES
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+TOC (D1)
+
+MP (D2)
+
+LMD (D3)
+
+LMD
+
+MP (D1)
+
+ES (D2)
+
+TOC (D3)
+
+ES (D1)
+
+TOC (D2)
+
+MP (D3)
+
+MP
+
+3.8
+
+2.1
+
+1.8
+
+0.2
+
+3.1
+
+3.3
+
+3.8
+
+3.5
+
+3.8
+
+3.1
+
+0.2
+
+TOC (D1)
+
+MP (D2)
+
+ES (D3)
+
+LMD
+
+MP (D1)
+
+LMD (D2)
+
+TOC (D3)
+
+LMD (D1)
+
+TOC (D2)
+
+MP (D3)
+
+MP
+
+3.8
+
+2.1
+
+3.9
+
+0.2
+
+3.1
+
+1.4
+
+3.8
+
+1.8
+
+3.8
+
+3.1
+
+0.2
+
+ES. Estadística
+IES. Ingeniería, Empresa y Sociedad
+LMD. Lógica y Métodos Discretos.
+MP Metodología de la Programación.
+TOC. Tecnología y Organización de los Computadores.
+
+Lunes
+
+Martes
+
+1º E Grado en Ingeniería Informática
+1er. cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+
+FP
+
+FP (E1)
+
+FS (E2)
+
+FFT (E3)
+
+CA
+
+CA
+
+FS
+
+0.3
+
+2.2
+
+3.2
+
+3.6
+
+0.3
+
+0.3
+
+0.3
+
+FP
+
+FP (E1)
+
+FS (E2)
+
+FFT (E3)
+
+2.2
+
+3.2
+
+3.6
+
+CA
+
+ALEM
+
+FS
+
+0.3
+
+0.3
+
+0.3
+
+ALEM. Álgebra Lineal y Estructuras Matemáticas
+CA. Cálculo
+
+0.3
+
+FFT (E1)
+
+ALEM (E2)
+
+FP (E3)
+
+FFT
+
+ALEM
+
+FS (E1)
+
+FP (E2)
+
+ALEM (E3)
+
+CA (E1)
+
+FFT (E2)
+
+FS (E3)
+
+3.6
+
+1.2
+
+3.5
+
+0.3
+
+0.3
+
+2.4
+
+3.3
+
+0.6
+
+2.4
+
+3.6
+
+3.3
+
+FFT (E1)
+
+CA (E2)
+
+FP (E3)
+
+FFT
+
+ALEM
+
+FS (E1)
+
+FP (E2)
+
+CA (E3)
+
+ALEM (E1)
+
+FFT (E2)
+
+FS (E3)
+
+3.6
+
+3.1
+
+3.5
+
+0.3
+
+0.3
+
+2.4
+
+3.3
+
+2.3
+
+1.2
+
+3.6
+
+3.3
+
+FFT. Fundamentos Físicos y Tecnológicos
+FP. Fundamentos de Programación
+FS. Fundamentos del Software
+
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+Martes
+
+1º E Grado en Ingeniería Informática
+2º cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+TOC (E1)
+
+ES (E2)
+
+MP (E3)
+
+LMD (E1)
+
+MP (E2)
+
+TOC (E3)
+
+ES
+
+TOC
+
+MP (E1)
+
+TOC (E2)
+
+ES (E3)
+
+3.8
+
+2.3
+
+2.1
+
+1.8
+
+2.1
+
+3.8
+
+0.3
+
+0.3
+
+3.1
+
+3.8
+
+2.2
+
+TOC (E1)
+
+LMD (E2)
+
+MP (E3)
+
+ES (E1)
+
+MP (E2)
+
+TOC (E3)
+
+LMD (E3)
+
+2.1
+
+3.2
+
+2.1
+
+3.8
+
+TOC
+
+TOC (E2)
+
+1.8
+
+ES
+
+MP (E1)
+
+3.8
+
+3.1
+
+3.8
+
+1.8
+
+0.3
+
+0.3
+
+IES
+
+MP
+
+LMD
+
+LMD
+
+IES
+
+0.3
+
+0.3
+
+0.3
+
+0.3
+
+0.3
+
+IES
+
+ES
+
+MP
+
+LMD
+
+IES
+
+0.3
+
+0.3
+
+0.3
+
+0.3
+
+0.3
+
+ES. Estadística
+IES. Ingeniería, Empresa y Sociedad
+LMD. Lógica y Métodos Discretos.
+MP Metodología de la Programación.
+TOC. Tecnología y Organización de los Computadores.
+
+Lunes
+
+Martes
+
+1º F Grado en Ingeniería Informática
+1er. cuatrimestre
+Miércoles
+
+Jueves
+
+ALEM
+
+FFT
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+
+FFT(F1)
+
+FP(F2)
+
+FS(F1)
+
+FFT(F2)
+
+FP
+
+3.6
+
+2.2
+
+2.4
+
+3.10
+
+0.5
+
+0.5
+
+0.5
+
+FFT(F1)
+
+FP(F2)
+
+FS(F1)
+
+FFT(F2)
+
+CA
+
+FFT
+
+ALEM
+
+2.2
+
+2.4
+
+3.6
+
+FP
+
+3.10
+
+CA
+
+0.5
+
+ALEM(F1)
+
+0.5
+
+FS(F2)
+
+ALEM. Álgebra Lineal y Estructuras Matemáticas
+CA. Cálculo
+
+0.5
+
+FS
+
+FP(F1)
+
+ALEM(F2)
+
+0.5
+
+0.5
+
+0.5
+
+2.8
+
+0.5
+
+2.6
+
+1.6
+
+ALEM
+
+CA
+
+CA(F1)
+
+FS(F2)
+
+FS
+
+FP(F1)
+
+CA(F2)
+
+0.5
+
+0.5
+
+3.8
+
+2.8
+
+0.5
+
+2.6
+
+2.4
+
+FFT. Fundamentos Físicos y Tecnológicos
+FP. Fundamentos de Programación
+FS. Fundamentos del Software
+
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+Martes
+
+1º F Grado en Ingeniería Informática
+2º cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+LMD
+
+MP
+
+TOC(F1)
+
+MP(F2)
+
+ES(F1)
+
+TOC(F2)
+
+MP(F1)
+
+LMD(F2)
+
+0.8
+
+0.8
+
+3.8
+
+2.6
+
+2.8
+
+3.8
+
+2.6
+
+1.8
+
+MP
+
+LMD
+
+TOC(F1)
+
+MP(F2)
+
+LMD(F1)
+
+TOC(F2)
+
+MP(F1)
+
+ES(F2)
+
+0.8
+
+0.8
+
+3.8
+
+2.6
+
+1.8
+
+3.8
+
+2.6
+
+ES
+
+IES
+
+TOC
+
+IES
+
+ES. Estadística
+IES. Ingeniería, Empresa y Sociedad
+
+2.8
+
+ES
+
+0.8
+
+0.8
+
+0.8
+
+0.8
+
+0.8
+
+ES
+
+IES
+
+TOC
+
+IES
+
+LMD
+
+0.8
+
+0.8
+
+0.8
+
+0.8
+
+0.8
+
+LMD. Lógica y Métodos Discretos.
+MP Metodología de la Programación.
+TOC. Tecnología y Organización de los Computadores.
+
+Lunes
+
+Martes
+
+2º A Grado en Ingeniería Informática
+1er. cuatrimestre
+Miércoles
+ED
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+
+Jueves
+
+Viernes
+
+EC. Estructura de computadores.
+
+0.2
+
+PDOO (A1)
+
+SO (A2)
+
+SCD (A1)
+
+PDOO (A2)
+
+SO (A3)
+
+SO (A1)
+
+SCD (A2)
+
+EC (A3)
+
+EC (A1)
+
+PDOO (A3)
+
+2.4
+
+2.8
+
+2.1
+
+2.4
+
+2.3
+
+2.3
+
+2.1
+
+2.9
+
+2.9
+
+PDOO (A1)
+
+SO (A2)
+
+ED (A3)
+
+SCD (A1)
+
+PDOO (A2)
+
+SO (A3)
+
+SO (A1)
+
+SCD (A2)
+
+EC (A3)
+
+EC (A1)
+
+ED (A2)
+
+2.8
+
+2.6
+
+2.1
+
+2.4
+
+2.3
+
+2.3
+
+2.1
+
+2.9
+
+2.9
+
+2.2
+
+2.4
+
+SCD
+
+11:30-12:30
+12:30-13:30
+
+EC
+
+SO
+
+SO (A4)
+
+EC (A2)
+
+2.8
+
+2.1
+
+PDOO (A3)
+
+SO (A4)
+
+ED (A1)
+
+2.8
+
+2.1
+
+2.4
+
+ED
+
+SCD (A3)
+
+2.9
+
+2.1
+
+EC (A2)
+
+SCD (A3)
+
+2.9
+
+2.1
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+EC
+
+SO
+
+ED
+
+PDOO
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+Miércoles
+
+Jueves
+
+Viernes
+
+ALG
+
+IA
+
+AC
+
+PDOO. Programación y Diseño Orientado a Objetos.
+SCD. Sistemas Concurrentes y Distribuidos.
+
+PDOO
+
+SCD
+
+ED. Estructura de Datos.
+
+SO. Sistemas Operativos.
+
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+Martes
+
+FIS
+
+ALG
+
+2º A Grado en Ingeniería Informática
+2º cuatrimestre
+
+AC. Arquitectura de Computadores.
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+FIS
+
+ALG
+
+FBD
+
+IA
+
+AC
+
+0.7
+
+AC (A1)
+
+FBD (A2)
+
+0.7
+
+IA (A3)
+
+IA (A1)
+
+ALG (A2)
+
+0.7
+
+AC (A3)
+
+ALG (A1)
+
+FIS (A2)
+
+0.7
+
+FBD (A3)
+
+FBD (A1)
+
+IA (A2)
+
+ALG. Algorítmica.
+FBD. Fundamentos de Bases de Datos.
+
+0.7
+
+FIS (A1)
+
+AC (A2)
+
+FBD (A3)
+
+3.7
+
+3.5
+
+2.1
+
+2.1
+
+2.3
+
+3.7
+
+3.2
+
+3.3
+
+0.2
+
+2.6
+
+2.1
+
+2.2
+
+2.1
+
+0.3
+
+AC (A1)
+
+FBD (A2)
+
+IA (A3)
+
+IA (A1)
+
+FBD (A2)
+
+AC (A3)
+
+FBD (A1)
+
+FIS (A2)
+
+ALG (A3)
+
+FBD (A1)
+
+IA (A2)
+
+FIS (A1)
+
+AC (A2)
+
+FBD (A3)
+
+3.7
+
+3.5
+
+2.1
+
+2.1
+
+3.5
+
+3.7
+
+3.2
+
+3.3
+
+3.7
+
+2.6
+
+2.1
+
+2.2
+
+2.1
+
+0.3
+
+FIS. Fundamentos e Ingeniería del Software.
+IA. Inteligencia Artificial
+
+8:30-9:30
+
+Martes
+
+Miércoles
+
+Jueves
+
+Viernes
+
+ED
+
+EC
+
+SCD
+
+SO
+
+EC. Estructura de computadores.
+
+0.2
+
+SO
+
+9:30-10:30
+10:30-11:30
+11:30-12:30
+
+2º B Grado en Ingeniería Informática
+1er. cuatrimestre
+
+Lunes
+ED
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+PDOO
+
+ED
+
+EC
+
+SCD
+
+PDOO
+
+0.2
+
+0.2
+
+ED (B1)
+2.6
+
+12:30-13:30
+
+PDOO (B2)
+
+SCD (B3)
+
+SO (B4)
+
+EC (B1)
+
+ED(B2)
+2.3
+
+0.2
+
+PDOO (B3)
+
+SCD (B1)
+
+EC (B2)
+
+0.2
+
+SO (B3)
+
+SO (B1)
+
+ED. Estructura de Datos.
+PDOO. Programación y Diseño Orientado a Objetos.
+
+0.2
+
+SCD (B2)
+
+ED (B3)
+2.2
+
+PDOO (B1)
+
+SO (B2)
+
+EC (B3)
+
+2.4
+
+3.1
+
+2.9
+
+2.9
+
+2.4
+
+2.1
+
+2.9
+
+2.3
+
+2.3
+
+2.1
+
+2.3
+
+2.4
+
+2.9
+
+PDOO (B2)
+
+SCD (B3)
+
+SO (B4)
+
+EC (B1)
+
+PDOO (B3)
+
+SCD (B1)
+
+EC (B2)
+
+SO (B3)
+
+SO (B1)
+
+SCD (B2)
+
+PDOO (B1)
+
+SO (B2)
+
+EC (B3)
+
+2.4
+
+3.1
+
+2.9
+
+2.9
+
+2.4
+
+2.1
+
+2.9
+
+2.3
+
+2.3
+
+2.1
+
+2.3
+
+2.4
+
+2.9
+
+FBD (B3)
+
+FBD (B1)
+
+AC (B2)
+
+SCD. Sistemas Concurrentes y Distribuidos.
+SO. Sistemas Operativos.
+
+13:30-14:30
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+2º B Grado en Ingeniería Informática
+2º cuatrimestre
+
+Lunes
+
+Martes
+
+Miércoles
+
+Jueves
+
+Viernes
+
+AC. Arquitectura de Computadores.
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+20:30-21:30
+20:45-21:45
+
+FIS (B1)
+
+FBD (B2)
+
+IA (B3)
+
+IA (B1)
+
+FBD (B2)
+
+AC (B3)
+
+ALG (B1)
+
+FIS (B2)
+
+FIS (B3)
+
+AC (B1)
+
+IA (B2)
+
+FBD (B3)
+
+2.1
+
+2.6/1.2
+
+3.1
+
+2.1
+
+2.6/0.6
+
+2.9
+
+3.1
+
+2.1
+
+1.4
+
+3.1/A.1
+
+3.7
+
+2.1
+
+2.9
+
+2.1
+
+2.6/1.2
+
+FIS (B1)
+
+FBD (B2)
+
+IA (B3)
+
+IA (B1)
+
+ALG (B2)
+
+AC (B3)
+
+FBD (B1)
+
+FIS (B2)
+
+ALG (B3)
+
+FBD (B1)
+
+AC (B2)
+
+FIS (B3)
+
+AC (B1)
+
+IA (B2)
+
+FBD (B3)
+
+2.1
+
+2.6/1.2
+
+3.1
+
+2.1
+
+2.6
+
+2.9
+
+1.4
+
+2.1
+
+2.6
+
+3.1/A.1
+
+3.7
+
+2.1
+
+2.9
+
+2.1
+
+2.6/1.2
+
+FIS
+
+AC
+
+ALG
+
+ALG
+
+IA
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+FIS
+
+AC
+
+ALG
+
+FBD
+
+IA
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+ALG. Algorítmica.
+FBD. Fundamentos de Bases de Datos.
+FIS. Fundamentos e Ingeniería del Software.
+IA. Inteligencia Artificial
+
+8:30-9:30
+9:30-10:30
+
+SO (C1)
+
+Lunes
+PDOO (C2)
+
+2.3
+
+2.6
+
+SO (C1)
+
+PDOO (C2)
+
+ED (C3)
+
+2.6
+
+3.5
+
+2.3
+
+Martes
+ED
+
+PDOO
+
+10:30-11:30
+
+0.7
+
+PDOO
+
+11:30-12:30
+12:30-13:30
+
+2º C Grado en Ingeniería Informática
+1er. cuatrimestre
+
+Jueves
+
+SO
+
+EC
+
+0.7
+
+0.7
+
+0.7
+
+ED
+
+ED
+
+EC
+
+0.7
+
+SCD (C1)
+
+Miércoles
+
+SO (C2)
+
+0.7
+
+PDOO (C3)
+
+PDOO (C1)
+
+ED(C2)
+2.4
+
+Viernes
+EC (C2)
+ED (C1)
+
+0.7
+
+EC (C3)
+
+EC (C1)
+
+SCD (C2)
+
+2.3
+
+SO (C3)
+
+SCD (C3)
+
+3.3
+
+3.1
+
+EC (C2)
+
+SCD (C3)
+
+3.3
+
+3.1
+
+SCD
+
+0.7
+
+3.3
+
+2.6
+
+3.7
+
+3.8
+
+3.3
+
+2.9
+
+3.1
+
+3.4
+
+0.7
+
+SO
+
+SCD (C1)
+
+SO (C2)
+
+PDOO (C3)
+
+PDOO (C1)
+
+EC (C3)
+
+EC (C1)
+
+SCD (C2)
+
+SO (C3)
+
+SCD
+
+0.7
+
+3.3
+
+2.6
+
+3.7
+
+3.8
+
+3.3
+
+2.9
+
+3.1
+
+3.4
+
+0.7
+
+EC. Estructura de computadores.
+ED. Estructura de Datos.
+PDOO. Programación y Diseño Orientado a Objetos.
+SCD. Sistemas Concurrentes y Distribuidos.
+SO. Sistemas Operativos.
+
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+Martes
+
+IA
+
+AC
+
+2º C Grado en Ingeniería Informática
+2º cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+FBD
+
+FIS
+
+ALG
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+0.3
+
+0.3
+
+0.3
+
+0.3
+
+0.3
+
+IA
+
+AC
+
+ALG
+
+FIS
+
+ALG
+
+0.3
+
+AC (C1)
+
+FBD (C2)
+
+0.3
+
+FIS (C1)
+
+ALG(C2)
+
+0.3
+
+AC (C3)
+
+FBD(C1)
+
+IA (C2)
+
+0.3
+
+IA (C1)
+
+AC (C2)
+
+AC. Arquitectura de Computadores.
+ALG. Algorítmica.
+
+0.3
+
+FBD (C1)
+
+FIS (C2)
+
+2.9
+
+2.7
+
+2.2
+
+3.5
+
+2.9
+
+1.2
+
+2.6
+
+3.1
+
+3.9
+
+2.4/1.2
+
+3.2
+
+AC (C1)
+
+FBD (C2)
+
+FIS (C1)
+
+FBD (C2)
+
+AC (C3)
+
+ALG (C1)
+
+IA (C2)
+
+IA (C1)
+
+AC (C2)
+
+FBD (C1)
+
+FIS (C2)
+
+2.9
+
+2.7
+
+2.2
+
+2.7
+
+2.9
+
+2.1
+
+2.6
+
+3.1
+
+3.9
+
+2.4/1.2
+
+3.2
+
+FBD. Fundamentos de Bases de Datos.
+FIS. Fundamentos e Ingeniería del Software.
+IA. Inteligencia Artificial
+
+Lunes
+
+Martes
+
+2º D Grado en Ingeniería Informática
+1er. cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+
+PDOO (D1)
+
+SO (D2)
+
+EC (D3)
+
+EC (D1)
+
+SCD (D2)
+
+PDOO (D3)
+
+SCD (D1)
+
+2.6
+
+3.3
+
+2.9
+
+2.9
+
+2.1
+
+3.5
+
+2.1
+
+PDOO (D1)
+
+SO (D2)
+
+EC (D3)
+
+EC (D1)
+
+SCD (D2)
+
+PDOO (D3)
+
+SCD (D1)
+
+3.3
+
+2.9
+
+2.9
+
+2.1
+
+3.5
+
+2.1
+
+2.6
+
+SO
+
+17:30-18:30
+18:30-19:30
+
+ED
+
+SO (D3)
+
+EC (D2)
+
+2.6
+
+SO (D1)
+
+2.9
+
+ED(D2)
+
+SO (D3)
+
+ED (D1)
+
+2.4
+
+2.6
+
+2.3
+
+ED
+
+-1.1
+
+ED(D3)
+
+SO (D1)
+
+PDOO (D2)
+
+2.9
+
+3.3
+
+2.1
+
+EC
+
+EC. Estructura de computadores.
+
+PDOO (D2)
+
+2.1
+
+EC (D2)
+
+ED. Estructura de Datos.
+
+-1.1
+
+PDOO
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+SO
+
+ED
+
+SCD
+
+EC
+
+PDOO
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+PDOO. Programación y Diseño Orientado a Objetos.
+SCD. Sistemas Concurrentes y Distribuidos.
+SO. Sistemas Operativos.
+
+SCD
+
+19:30-20:30
+
+0.1
+
+20:30-21:30
+
+Lunes
+
+Martes
+
+FIS
+
+AC
+
+2º D Grado en Ingeniería Informática
+2º cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+ALG
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+ALG
+
+IA
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+FIS
+
+AC
+
+FBD
+
+IA
+
+ALG
+
+0.1
+
+FIS(D1)
+
+IA (D2)
+
+0.1
+
+FBD(D3)
+
+IA(D1)
+
+AC (D2)
+
+0.1
+
+ALG(D3)
+
+FBD(D1)
+
+FIS (D2)
+
+0.1
+
+AC(D3)
+
+FBD(D1)
+
+ALG (D2)
+
+AC. Arquitectura de Computadores.
+ALG. Algorítmica.
+
+0.1
+
+AC (D1)
+
+FBD (D2)
+
+IA (D3)
+
+3.4
+
+3.1
+
+2.8/1.3
+
+2.8
+
+3.1
+
+2.6
+
+2.2
+
+2.6
+
+2.3
+
+3.3/1.8
+
+2.3
+
+2.8
+
+3.9
+
+2.1
+
+FIS(D1)
+
+IA (D2)
+
+FBD(D3)
+
+IA(D1)
+
+AC (D2)
+
+FBD(D3)
+
+FBD(D1)
+
+FIS (D2)
+
+AC(D3)
+
+ALG(D1)
+
+FBD (D2)
+
+AC (D1)
+
+FBD (D2)
+
+IA (D3)
+
+3.4
+
+3.1
+
+2.8/1.3
+
+2.8
+
+3.1
+
+2.6/1.3
+
+2.2
+
+2.6
+
+2.3
+
+3.3
+
+2.3
+
+2.8
+
+3.9
+
+2.1
+
+FBD. Fundamentos de Bases de Datos.
+FIS. Fundamentos e Ingeniería del Software.
+IA. Inteligencia Artificial
+
+3ºA Grado en Ingeniería Informática
+1er. cuatrimestre
+
+Lunes
+
+Martes
+
+MC
+
+Miércoles
+
+Jueves
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+FR
+
+IG
+
+0.6
+
+0.6
+
+0.6
+
+MC
+
+FR
+
+IG
+
+0.6
+
+DDSI (A1)
+
+FR (A2)
+
+0.6
+
+MC (A3)
+
+FR (A1)
+
+ISE (A2)
+
+ISE
+
+0.6
+
+DDSI (A3)
+
+MC (A1)
+
+IG (A2)
+
+DDSI. Diseño y Desarrollo de Sistemas de Información
+
+0.6
+
+DDSI
+
+ISE
+
+0.6
+
+ISE (A3)
+
+ISE (A1)
+
+MC (A2)
+
+FR. Fundamentos de Redes
+
+0.6
+
+IG (A3)
+
+IG (A1)
+
+DDSI (A2)
+
+FR (A3)
+
+2.3
+
+3.7
+
+1.3
+
+3.7
+
+2.4
+
+2.1
+
+1.2
+
+3.5
+
+2.1
+
+3.1
+
+1.2
+
+3.5
+
+3.5
+
+3.1
+
+3.7
+
+DDSI (A1)
+
+FR (A2)
+
+MC (A3)
+
+FR (A1)
+
+ISE (A2)
+
+DDSI (A3)
+
+MC (A1)
+
+IG (A2)
+
+ISE (A3)
+
+ISE (A1)
+
+MC (A2)
+
+IG (A3)
+
+IG (A1)
+
+DDSI (A2)
+
+FR (A3)
+
+2.3
+
+3.7
+
+1.3
+
+3.7
+
+2.4
+
+2.1
+
+1.2
+
+3.5
+
+2.1
+
+3.1
+
+1.2
+
+3.5
+
+3.5
+
+3.1
+
+3.7
+
+DDSI (A1)
+
+DDSI (A3)
+
+DDSI (A2)
+
+2.3
+
+3.1
+
+3.1
+
+IG. Informática Gráfica
+ISE. Ingeniería de Servidores
+MC. Modelos de Computación
+
+Lunes
+
+Martes
+
+3ºB Grado en Ingeniería Informática
+1er. cuatrimestre
+Miércoles
+
+Jueves
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+IG (B1)
+
+DDSI (B2)
+
+FR (B3)
+
+ISE (B1)
+
+FR (B2)
+
+IG (B3)
+
+FR (B1)
+
+MC(B2)
+
+DDSI(B3)
+
+MC (B1)
+
+DDSI(B2)
+
+2.1
+
+2.4
+
+3.7
+
+-1.1
+
+3.7
+
+3.1
+
+3.7
+
+1.6
+
+3.5
+
+1.2
+
+2.3
+
+IG (B1)
+
+DDSI (B2)
+
+FR (B3)
+
+ISE (B1)
+
+FR (B2)
+
+IG (B3)
+
+FR (B1)
+
+MC(B2)
+
+DDSI(B3)
+
+MC (B1)
+
+IG(B2)
+
+2.4
+
+3.7
+
+-1.1
+
+3.7
+
+3.1
+
+3.7
+
+1.6
+
+3.5
+
+2.1
+
+ISE
+
+DDSI (B1)
+
+1.6
+
+ISE(B2)
+
+MC(B3)
+
+3.3
+
+3.5
+
+1.6
+
+1.2
+
+2.1
+
+2.8
+
+IG
+
+DDSI (B1)
+
+IG(B2)
+
+ISE(B3)
+
+2.3
+
+2.1
+
+2.8
+
+0.6
+
+0.6
+
+0.6
+
+MC
+
+IG
+
+DDSI
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+MC(B3)
+
+3.5
+
+DDSI (B1)
+
+MC
+
+ISE
+
+ISE(B2)
+
+3.3
+
+ISE(B3)
+
+FR
+
+DDSI. Diseño y Desarrollo de Sistemas de Información
+FR. Fundamentos de Redes
+IG. Informática Gráfica
+
+0.6
+
+FR
+
+ISE. Ingeniería de Servidores
+
+0.6
+
+DDSI(B3)
+2.6
+
+MC. Modelos de Computación
+
+3ºC Grado en Ingeniería Informática
+1er. cuatrimestre
+
+Lunes
+
+Martes
+
+Miércoles
+
+Jueves
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+IG (C1)
+
+ISE (C2)
+
+ISE (C1)
+
+DDSI (C2)
+
+DDSI (C1)
+
+MC (C2)
+
+DDSI (C1)
+
+FR (C2)
+
+FR (C1)
+
+IG (C2)
+
+MC (C3)
+
+3.1
+
+2.3
+
+2.3
+
+3.3
+
+2.2
+
+1.2
+
+2.1
+
+3.7
+
+3.7
+
+3.8
+
+1.7
+
+IG (C1)
+
+ISE (C2)
+
+ISE (C1)
+
+DDSI (C2)
+
+DDSI (C1)
+
+MC (C2)
+
+MC (C1)
+
+FR (C2)
+
+FR (C1)
+
+IG (C2)
+
+MC (C3)
+
+3.1
+
+2.3
+
+2.3
+
+3.3
+
+2.2
+
+1.2
+
+0.7
+
+3.7
+
+3.7
+
+3.8
+
+1.7
+
+IG
+
+FR
+
+ISE
+
+MC (C1)
+
+DDSI (C2)
+
+MC
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+2.7
+
+0.7
+
+IG
+
+FR
+
+ISE
+
+DDSI
+
+MC
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+DDSI. Diseño y Desarrollo de Sistemas de Información
+FR. Fundamentos de Redes
+IG. Informática Gráfica
+ISE. Ingeniería de Servidores
+MC. Modelos de Computación
+
+3ºD Grado en Ingeniería Informática
+1er. cuatrimestre
+
+Lunes
+
+Martes
+
+Miércoles
+
+Jueves
+
+ISE
+
+FR
+
+IG
+
+1.7
+
+1.7
+
+1.7
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+15:30-16:30
+
+ISE
+
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+FR
+
+1.7
+
+FR. Fundamentos de Redes
+IG. Informática Gráfica
+
+IG
+
+1.7
+
+1.7
+
+IG (D1)
+
+ISE (D2)
+
+ISE (D1)
+
+FR (D2)
+
+FR (D1)
+
+IG (D2)
+
+ISE (D3)
+
+2.6
+
+3.5
+
+2.3
+
+3.7
+
+3.7
+
+2.9
+
+3.8
+
+IG (D1)
+
+ISE (D2)
+
+ISE (D1)
+
+FR (D2)
+
+FR (D1)
+
+IG (D2)
+
+ISE (D3)
+
+2.6
+
+3.5
+
+2.3
+
+3.7
+
+3.7
+
+2.9
+
+3.8
+
+ISE. Ingeniería de Servidores
+
+Lunes
+
+3º Grado en Ingeniería Informática (Ingeniería de computadores)
+2º cuatrimestre
+Martes
+
+Miércoles
+
+Jueves
+
+Viernes
+
+SMP
+
+DSE
+
+DHD
+
+AS
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+ACAP
+3.9
+
+3.3
+
+1.7
+
+2.2
+
+1.7
+
+ACAP
+
+SMP
+
+DSE
+
+DHD
+
+AS
+
+3.9
+
+3.3
+
+1.7
+
+2.2
+
+1.7
+
+ACAP
+
+SMP
+
+DSE
+
+DHD
+
+AS
+
+1.7
+
+3.3
+
+3.6
+
+2.2
+
+1.7
+
+ACAP
+
+SMP
+
+DSE
+
+DHD
+
+AS
+
+1.7
+
+3.3
+
+3.6
+
+2.2
+
+1.7
+
+ACAP. Arquitectura y Computación de Altas Prestaciones.
+AS. Arquitectura de Sistemas.
+DHD. Desarrollo de Hardware digital
+DSE. Diseño de Sistemas Electrónicos.
+SMP. Sistemas con Microprocesadores.
+
+3º Grado en Ingeniería Informática (Ingeniería del Software)
+2º cuatrimestre
+
+Lunes
+
+Martes
+
+Miércoles
+
+Jueves
+
+Viernes
+
+DIU
+
+DSD
+
+DS
+
+SIBW
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+SG
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+SG
+
+DIU
+
+DSD
+
+DS
+
+SIBW
+
+0.6
+
+SG (A1)
+
+DSD (A2)
+
+0.6
+
+DS (A3)
+
+DS (A1)
+
+SG (A2)
+
+0.6
+
+DIU (A3)
+
+DIU (A1)
+
+SIBW (A2)
+
+0.6
+
+SG (A3)
+
+SIBW (A1)
+
+DS (A2)
+
+DS. Desarrollo de Software.
+DIU. Diseño de Interfaces de Usuario.
+
+0.6
+
+DSD (A3)
+
+DSD (A1)
+
+DIU (A2)
+
+SIBW (A3)
+
+3.3
+
+-1.1
+
+3.2
+
+3.2
+
+2.1
+
+2.2
+
+3.2
+
+3.4
+
+2.8
+
+3.7
+
+2.8
+
+2.1
+
+2.4
+
+3.2
+
+2.2
+
+SG (A1)
+
+DSD (A2)
+
+DS (A3)
+
+DS (A1)
+
+SG (A2)
+
+DIU (A3)
+
+DIU (A1)
+
+SIBW (A2)
+
+SG (A3)
+
+SIBW (A1)
+
+DS (A2)
+
+DSD (A3)
+
+DSD (A1)
+
+DIU (A2)
+
+SIBW (A3)
+
+3.3
+
+-1.1
+
+3.2
+
+3.2
+
+2.1
+
+2.2
+
+3.2
+
+3.4
+
+2.8
+
+3.7
+
+2.8
+
+2.1
+
+2.4
+
+3.2
+
+2.2
+
+DSD. Desarrollo de Sistemas Distribuidos.
+SG. Sistemas Gráficos.
+SIBW. Sistemas de Información Basados en Web.
+
+3º Grado en Ingeniería Informática (Computación y Sistemas Inteligentes)
+2º cuatrimestre
+
+Lunes
+
+Martes
+
+Miércoles
+
+Jueves
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+TSI (A1)
+
+IC (A2)
+
+MH (A3)
+
+AA (A4)
+
+MAC (A1)
+
+AA (A2)
+
+TSI (A3)
+
+MH (A1)
+
+MAC (A2)
+
+IC (A3)
+
+AA (A1)
+
+MH (A2)
+
+MAC (A3)
+
+IC (A1)
+
+TSI (A2)
+
+AA (A3)
+
+3.3
+
+3.2
+
+1.1
+
+3.5
+
+1.1
+
+3.1
+
+2.2
+
+1.1
+
+1.4
+
+3.9
+
+2.1
+
+1.1
+
+1.7
+
+-1.1
+
+3.1
+
+2.3
+
+TSI (A1)
+
+IC (A2)
+
+MH (A3)
+
+AA (A4)
+
+MAC (A1)
+
+AA (A2)
+
+TSI (A3)
+
+MH (A1)
+
+MAC (A2)
+
+IC (A3)
+
+AA (A1)
+
+MH (A2)
+
+MAC (A3)
+
+IC (A1)
+
+TSI (A2)
+
+AA (A3)
+
+3.3
+
+3.2
+
+1.1
+
+3.5
+
+1.1
+
+3.1
+
+2.2
+
+1.1
+
+1.4
+
+3.9
+
+2.1
+
+1.1
+
+1.7
+
+-1.1
+
+3.1
+
+2.3
+
+AA
+
+TSI
+
+MAC
+
+MH
+
+IC
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+AA
+
+TSI
+
+MAC
+
+MH
+
+IC
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+AA. Aprendizaje Automático.
+IC. Ingeniería del Conocimiento.
+MAC. Modelos Avanzados de Computación
+MH. Metaheurísticas.
+TSI. Técnicas de los Sistemas Inteligentes.
+
+3º Grado en Ingeniería Informática (Sistemas de Información)
+2º cuatrimestre
+
+Lunes
+
+Martes
+
+Miércoles
+
+Jueves
+
+Viernes
+
+ISI
+
+SIE
+
+ABD
+
+PW
+
+SMD
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+
+ISI
+
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+SIE
+
+0.7
+
+ABD
+
+0.7
+
+PW
+
+0.7
+
+ABD. Administración de Bases de Datos.
+ISI. Ingeniería de Sistemas de Información.
+
+SMD
+
+0.7
+
+0.7
+
+SIE (A1)
+
+PW (A2)
+
+ISI (A3)
+
+ABD (A1)
+
+ISI (A2)
+
+PW (A3)
+
+ISI (A1)
+
+SMD (A2)
+
+SIE (A3)
+
+SMD (A1)
+
+SIE (A2)
+
+ABD (A3)
+
+PW (A1)
+
+ABD (A2)
+
+SMD (A3)
+
+1.1
+
+2.4
+
+3.5
+
+2.3
+
+2.4
+
+3.5
+
+2.4
+
+2.1
+
+1.1
+
+2.9
+
+1.1
+
+2.4
+
+3.3
+
+2.6
+
+2.9
+
+SIE (A1)
+
+PW (A2)
+
+ISI (A3)
+
+ABD (A1)
+
+ISI (A2)
+
+PW (A3)
+
+ISI (A1)
+
+SMD (A2)
+
+SIE (A3)
+
+SMD (A1)
+
+SIE (A2)
+
+ABD (A3)
+
+PW (A1)
+
+ABD (A2)
+
+SMD (A3)
+
+1.1
+
+2.4
+
+3.5
+
+2.3
+
+2.4
+
+3.5
+
+2.4
+
+2.1
+
+1.1
+
+2.9
+
+1.1
+
+2.4
+
+3.3
+
+2.6
+
+2.9
+
+PW. Programación Web.
+SIE. Sistemas de Información para Empresas.
+SMD. Sistemas Multidimensionales.
+
+3º Grado en Ingeniería Informática (Tecnologías de la Información)
+2º cuatrimestre
+
+Lunes
+
+Martes
+
+Miércoles
+
+Jueves
+
+Viernes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+SMM (A1)
+
+TDRC (A2)
+
+TW (A3)
+
+TW (A1)
+
+CUIA (A2)
+
+TDRC (A3)
+
+SWAP (A1)
+
+TW (A2)
+
+SMM (A3)
+
+CUIA (A1)
+
+SMM (A2)
+
+SWAP (A3)
+
+TDRC (A1)
+
+SWAP (A2)
+
+CUIA (A3)
+
+2.8
+
+3.4
+
+2.2
+
+2.6
+
+2.8
+
+3.4
+
+2.4
+
+2.9
+
+2.3
+
+3.3
+
+2.4
+
+2.9
+
+3.4
+
+3.3
+
+2.4
+
+SMM (A1)
+
+TDRC (A2)
+
+TW (A3)
+
+TW (A1)
+
+CUIA (A2)
+
+TDRC (A3)
+
+SWAP (A1)
+
+TW (A2)
+
+SMM (A3)
+
+CUIA (A1)
+
+SMM (A2)
+
+SWAP (A3)
+
+TDRC (A1)
+
+SWAP (A2)
+
+CUIA (A3)
+
+3.4
+
+2.2
+
+2.6
+
+2.8
+
+3.4
+
+2.4
+
+2.9
+
+2.3
+
+3.3
+
+2.4
+
+2.9
+
+3.4
+
+3.3
+
+2.4
+
+2.8
+
+TW
+
+TDRC
+
+SWAP
+
+SMM
+
+CUIA
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+TW
+
+TDRC
+
+SWAP
+
+SMM
+
+CUIA
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+CUIA. Computación Ubicua e Inteligencia Ambiental.
+SMM. Sistemas Multimedia.
+SWAP. Servidores Web de Altas Prestaciones.
+TDRC. Transmisión de Datos y Redes de Computadores.
+TW. Tecnologías Web.
+
+Lunes
+
+4º Grado en Ingeniería Informática (Ingeniería de computadores)
+1er cuatrimestre
+Martes
+
+Miércoles
+
+Jueves
+TR
+3.2
+
+1.5
+
+II
+
+TE
+
+TR
+
+TR
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+
+Viernes
+TR
+
+3.9
+
+1.6
+
+3.2
+
+1.5
+
+II
+
+TE
+
+SE
+
+CPD
+
+3.9
+
+1.6
+
+3.9
+
+1.5
+
+II
+
+TE
+
+SE
+
+CPD
+
+3.9
+
+3.9
+
+3.9
+
+1.5
+
+II
+
+TE
+
+SE
+
+CPD
+
+3.9
+
+3.9
+
+3.9
+
+1.5
+
+SE
+
+CPD
+
+3.9
+
+1.5
+
+13:30-14:30
+
+CPD. Centros de Procesamiento de Datos
+SE. Sistemas Empotrados
+TR. Tecnologías de Red
+
+II. Informática Industrial.
+TE. Tecnologías Emergentes.
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+4º Grado en Ingeniería Informática (Ingeniería de computadores)
+2º cuatrimestre
+Martes
+
+Miércoles
+CEGE
+
+Jueves
+
+Viernes
+EISI
+
+MEI
+
+EISI
+
+1.1
+
+EISI
+
+CEGE
+
+1.4
+
+1.1
+
+2.8
+
+1.4
+
+EISI
+
+CII
+
+MEI
+
+CEGE
+
+1.4
+
+3.4/3.11
+
+2.8
+
+1.4
+
+DI
+
+CII
+
+MEI
+
+CEGE
+
+1.4
+
+3.4/3.11
+
+1.1
+
+1.4
+
+DI
+
+CII
+
+MEI
+
+DI
+
+3.4
+
+1.1
+
+1.4
+
+1.4
+
+CII. Circuitos Integrados e Impresos.
+
+1.4
+
+CII
+
+DI
+
+3.4
+
+1.4
+
+MEI. Mantenimiento de Equipos Informáticos.
+
+CEGE. Creación de Empresas y Gestión Emprendedora.
+DI. Derecho Informático.
+EISI. Ética, Informática y Sociedad de la Información.
+
+Lunes
+
+4º Grado en Ingeniería Informática (Ingeniería del Software)
+1er cuatrimestre
+Martes
+
+Miércoles
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+
+LP
+
+PGV
+
+SSO
+
+2.7
+
+2.8
+
+2.8
+
+LP
+
+PGV
+
+SSO
+
+Jueves
+MDA
+
+Viernes
+DGP
+
+A.2
+
+A.2
+
+MDA
+
+DGP
+
+A.2
+
+MDA1
+
+DBA2
+
+DBA. Desarrollo Basado en Agentes.
+DGP. Dirección y Gestión de Proyectos.
+
+A.2
+
+DGP3
+
+DGP1
+
+MDA2
+
+DBA3
+
+2.7
+
+2.8
+
+2.8
+
+-1.2
+
+A.1
+
+A.2
+
+A.2
+
+B.1
+
+A.1
+
+LP
+
+PGV
+
+SSO
+
+MDA1
+
+DBA2
+
+DGP3
+
+DGP1
+
+MDA2
+
+DBA3
+
+-1.2
+
+A.1
+
+A.2
+
+2.7
+
+1.1
+
+1.6
+
+A.2
+
+B.1
+
+A.1
+
+LP
+
+PGV
+
+SSO
+
+DBA
+
+DBA1
+
+DGP2
+
+MDA3
+
+2.7
+
+1.1
+
+1.6
+
+A.2
+
+A.2
+
+-1.2
+
+A.1
+
+DBA
+
+DBA1
+
+DGP2
+
+MDA3
+
+A.2
+
+A.2
+
+-1.2
+
+A.1
+
+13:30-14:30
+
+MDA. Metodologías de Desarrollo Ágil.
+
+LP. Lógica y Programación.
+PGV. Programación Gráfica de Videojuegos.
+SSO. Seguridad en Sistemas Operativos.
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+4º Grado en Ingeniería Informática (Ingeniería del Software)
+2º cuatrimestre
+Martes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+Miércoles
+CEGE
+
+Jueves
+
+Viernes
+EISI
+
+AO
+
+EISI
+
+1.1
+
+EISI
+
+NTP
+
+CEGE
+
+AO. Animación por Ordenador.
+
+1.4
+
+1.4
+
+2.7
+
+1.1
+
+2.2
+
+1.4
+
+EISI
+
+NTP
+
+PPR
+
+AO
+
+CEGE
+
+1.4
+
+2.7
+
+1.1
+
+2.2
+
+1.4
+
+DI
+
+PPR
+
+PPR
+
+AO
+
+CEGE
+1.4
+
+1.4
+
+2.6
+
+1.1
+
+2.2
+
+DI
+
+PPR
+
+NTP
+
+AO
+
+DI
+
+1.4
+
+2.6
+
+2.7
+
+2.2
+
+1.4
+
+NTP
+
+DI
+
+2.7
+
+1.4
+
+NTP. Nuevas Tecnologías de la Programación.
+PPR. Programación Paralela.
+
+CEGE. Creación de Empresas y Gestión Emprendedora.
+DI. Derecho Informático.
+EISI. Ética, Informática y Sociedad de la Información.
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+4º Grado en Ingeniría Informática (Computación y Sistemas Inteligentes)
+1er cuatrimestre
+Martes
+
+Miércoles
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+
+TIC
+
+PTC
+
+TIC
+
+1.1
+
+1.7
+
+2.2
+
+TIC
+
+PTC
+
+TIC
+
+Jueves
+PL
+
+PL (A1)
+
+1.3
+
+2.8
+
+2.6
+
+3.9
+
+PL
+
+PL (A1)
+
+VC(A2)
+
+NPI(A3)
+
+2.6
+
+3.9
+
+1.3
+
+VC (A1)
+
+NPI(A2)
+
+2.8
+
+PL(A3)
+
+Viernes
+VC(A2)
+
+NPI(A3)
+
+1.1
+
+1.7
+
+2.2
+
+3.2
+
+3.3
+
+2.6
+
+1.3
+
+SS
+
+SS
+
+VC (A1)
+
+NPI(A2)
+
+PL(A3)
+
+NPI
+
+3.2
+
+3.3
+
+2.6
+
+3.5
+
+3.8
+
+1.1
+
+PTC
+
+SS
+
+SS
+
+VC
+
+NPI (A1)
+
+3.5
+
+3.8
+
+1.1
+
+1.3
+
+3.1
+
+2.1
+
+3.4
+
+VC
+
+NPI (A1)
+
+PL(A2)
+
+VC(A3)
+
+1.3
+
+3.1
+
+2.1
+
+3.4
+
+13:30-14:30
+
+PL Procesadores de Lenguajes.
+VC. Visión por Computador.
+
+NPI
+
+PTC
+
+NPI. Nuevos Paradigmas de Interacción.
+
+1.3
+
+PL(A2)
+
+VC(A3)
+
+PTC. Programación Técnica y Científica.
+SS Simulación de Sistemas.
+TIC. Teoría de la Información y la Codificación.
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+4º Grado en Ingeniería Informática (Computación y Sistemas Inteligentes)
+2º cuatrimestre
+Martes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+Miércoles
+CEGE
+
+Jueves
+
+Viernes
+EISI
+
+CEGE
+
+RI
+
+EISI
+
+1.1
+
+EISI
+
+PLD
+
+CRIP. Criptografía y Computación.
+
+1.4
+
+1.4
+
+1.1
+
+1.1
+
+1.2
+
+1.4
+
+EISI
+
+PLD
+
+CRIP
+
+RI
+
+CEGE
+
+1.4
+
+1.1
+
+2.2
+
+1.2
+
+1.4
+
+DI
+
+CRIP
+
+CRIP
+
+RI
+
+CEGE
+
+3.11/3.7
+
+1.4
+
+1.4
+
+1.1
+
+2.2
+
+DI
+
+CRIP
+
+PLD
+
+RI
+
+DI
+
+1.4
+
+1.1
+
+2.3
+
+3.11/3.7
+
+1.4
+
+PLD
+
+DI
+
+2.3
+
+1.4
+
+PLD. Programación Lúdica.
+RI. Robótica Industrial.
+
+CEGE. Creación de Empresas y Gestión Emprendedora.
+DI. Derecho Informático.
+EISI. Ética, Informática y Sociedad de la Información.
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+4º Grado en Ingeniería Informática (Sistemas de Información)
+1er cuatrimestre
+Martes
+
+Miércoles
+
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+
+GRD
+
+RSC
+
+BDD (A1)
+
+Jueves
+
+Viernes
+
+RI (A2)
+
+IN (A1)
+
+2.4
+
+2.7
+
+2.4
+
+2.3
+
+SIG
+
+BDD (A1)
+
+RI (A2)
+
+IN (A1)
+
+IN (A2)
+
+2.4
+
+2.7
+
+2.4
+
+8:30-9:30
+1.3
+
+1.6
+
+1.5
+
+GRD
+
+RSC
+
+SIG
+
+RI
+
+IN
+
+IN (A2)
+
+IN. Inteligencia de Negocio.
+
+2.3
+
+1.3
+
+1.6
+
+1.5
+
+1.6
+
+1.6
+
+GRD
+
+RSC
+
+SIG
+
+RI
+
+IN
+
+RI. Recuperación de Información.
+
+1.3
+
+1.6
+
+1.5
+
+1.6
+
+GRD
+
+RSC
+
+SIG
+
+BDD
+
+RI (A1)
+
+1.3
+
+1.6
+
+1.5
+
+1.6
+
+2.7
+
+2.2
+
+BDD
+
+RI (A1)
+
+BDD (A2)
+
+1.6
+
+2.7
+
+2.2
+
+13:30-14:30
+
+BDD. Bases de Datos Distribuidas.
+
+1.6
+
+BDD (A2)
+
+GRD. Gestión de Recursos Digitales.
+RSC. Redes y Sistemas Complejos.
+SIG. Sistemas de Información Geográficos.
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+4º Grado en Ingeniería Informática (Sistemas de Información)
+2º cuatrimestre
+Martes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Miércoles
+CEGE
+
+Jueves
+
+Viernes
+EISI
+
+PDIH
+
+EISI
+
+1.1
+
+EISI
+
+PDIH
+
+CEGE
+
+1.4
+
+1.4
+
+1.1
+
+3.9
+
+1.4
+
+EISI
+
+PDIH
+
+SCGC
+
+PDIH
+
+CEGE
+
+1.4
+
+1.4
+
+3.5
+
+3.9
+
+SCGC. Sistemas Cooperativos y Gestión de Contenidos.
+
+1.4
+
+DI
+
+SCGC
+
+CEGE
+
+1.4
+
+3.5
+
+1.4
+
+DI
+
+SCGC
+
+DI
+
+1.4
+
+PDIH: Periféricos y Dispositivos de Interfaz Humana.
+
+1.4
+
+3.5
+
+1.4
+
+SCGC
+
+DI
+
+3.5
+
+1.4
+
+CEGE. Creación de Empresas y Gestión Emprendedora.
+DI. Derecho Informático.
+EISI. Ética, Informática y Sociedad de la Información.
+
+Lunes
+
+4º Grado en Ingeniería Informática (Tecnologías de la Información)
+1er cuatrimestre
+Martes
+
+Miércoles
+
+IV (A1)
+
+Jueves
+DAI (A2)
+
+-1.2
+
+2.6
+
+1.3
+
+CRIM
+
+IV (A1)
+
+DAI (A2)
+
+SPSI
+
+1.6
+
+1.5
+
+-1.2
+
+TID
+
+CRIM
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+
+TID
+
+Viernes
+SPSI
+
+2.6
+
+IV. Infraestructura Virtual.
+
+1.3
+
+DAI
+
+DAI (A1)
+
+SPSI (A2)
+
+1.6
+
+1.5
+
+1.3
+
+3.7
+
+2.7
+
+TID
+
+CRIM
+
+DAI
+
+DAI (A1)
+
+SPSI (A2)
+
+3.7
+
+2.7
+
+1.6
+
+1.5
+
+TID
+
+CRIM
+
+SPSI (A1)
+
+IV (A2)
+
+DAI (A3)
+
+IV
+
+1.6
+
+1.5
+
+2.7
+
+-1.2
+
+1.3
+3.3
+
+1.3
+
+SPSI (A1)
+
+IV (A2)
+
+DAI (A3)
+
+IV
+
+2.7
+
+-1.2
+
+3.3
+
+1.3
+
+13:30-14:30
+
+DAI. Desarrollo de Aplicaciones para Internet.
+
+SPSI. Seguridad y Protección de Sistemas Informáticos.
+
+CRIM. Compresión y Recuperación de Información Multimedia.
+TID. Tratamiento de Imágenes Digitales.
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+
+4º Grado en Ingeniería Informática (Tecnologías de la Información)
+2º cuatrimestre
+Martes
+
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+
+Miércoles
+CEGE
+
+Jueves
+
+Viernes
+EISI
+
+RMS
+
+EISI
+
+1.1
+
+EISI
+
+PDS
+
+CEGE
+
+PDM. Programación de Dispositivos Móviles.
+
+1.4
+
+1.4
+
+1.2
+
+1.1
+
+3.4
+
+1.4
+
+EISI
+
+PDS
+
+PDM
+
+RMS
+
+CEGE
+
+1.4
+
+1.2
+
+2.8
+
+3.4
+
+1.4
+
+DI
+
+PDS
+
+PDM
+
+RMS
+
+CEGE
+1.4
+
+1.4
+
+3.4
+
+2.8
+
+1.2
+
+DI
+
+PDS
+
+PDM
+
+RMS
+
+DI
+
+1.4
+
+3.4
+
+2.8
+
+1.2
+
+1.4
+
+PDM
+
+DI
+
+2.8
+
+1.4
+
+PDS. Procesamiento Digital de Señales.
+RMS. Redes Multiservicio.
+
+CEGE. Creación de Empresas y Gestión Emprendedora.
+DI. Derecho Informático.
+EISI. Ética, Informática y Sociedad de la Información.
+
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+Lunes
+8:30-9:30
+9:30-10:30
+10:30-11:30
+11:30-12:30
+12:30-13:30
+13:30-14:30
+15:30-16:30
+16:30-17:30
+17:30-18:30
+18:30-19:30
+19:30-20:30
+20:30-21:30
+
+4º Grado en Ingeniería Informática (Formación Complementaria)
+2º cuatrimestre
+Martes
+
+Miércoles
+CEGE
+
+Jueves
+
+Viernes
+EISI
+
+1.1
+
+1.4
+
+EISI
+
+CEGE
+
+EISI
+
+1.4
+
+1.1
+
+EISI
+
+CEGE. Creación de Empresas y Gestión Emprendedora.
+DI. Derecho Informático.
+
+1.4
+
+CEGE
+
+1.4
+
+1.4
+
+DI
+
+CEGE
+
+1.4
+
+1.4
+
+DI
+
+DI
+
+1.4
+
+1.4
+
+DI
+1.4
+
+EISI. Ética, Informática y Sociedad de la Información.
+
+
