@@ -1,0 +1,15 @@
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/bin/Debug/net8.0/modelo
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/bin/Debug/net8.0/modelo.deps.json
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/bin/Debug/net8.0/modelo.runtimeconfig.json
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/bin/Debug/net8.0/modelo.dll
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/bin/Debug/net8.0/modelo.pdb
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/modelo.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/modelo.AssemblyInfoInputs.cache
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/modelo.AssemblyInfo.cs
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/modelo.csproj.CoreCompileInputs.cache
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/modelo.sourcelink.json
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/modelo.dll
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/refint/modelo.dll
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/modelo.pdb
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/modelo.genruntimeconfig.cache
+/home/mohammed-lahssaini-nouijah/Escritorio/ESTIIT_LEAP_MOTION_GUI/modelo/obj/Debug/net8.0/ref/modelo.dll
