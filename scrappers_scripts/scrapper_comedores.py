@@ -18,14 +18,16 @@ output_csv = './data_csv/menu_semanal.csv'
 # Guardar datos en el CSV
 with open(output_csv, 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
-    writer.writerow(['Día', 'Tipo de Menú', 'Entrante', 'Plato Principal', 'Acompañamiento', 'Postre', 'Alérgenos'])
+    writer.writerow(['Día', 'Tipo de Menú', 'Cremas y Sopas', 'Entrante', 'Primero', 'Segundo', 'Acompañamiento', 'Postre', 'Alérgenos'])
 
     for menu in menus:
         rows = menu.find_all('tr')
         day = ''
         menu_type = ''
+        cremas_y_sopas = ''
         entrante = ''
-        plato_principal = ''
+        primero = ''
+        segundo = ''
         acompanamiento = ''
         postre = ''
         alergenos = ''
@@ -37,11 +39,16 @@ with open(output_csv, 'w', newline='', encoding='utf-8') as file:
             else:
                 columns = row.find_all('td')
                 if 'Menú' in columns[0].text:
-                    if entrante or plato_principal or acompanamiento or postre:
-                        writer.writerow([day, menu_type, entrante, plato_principal, acompanamiento, postre, alergenos])
+                    # Guardar el menú anterior antes de reiniciar los valores
+                    if primero or segundo or acompanamiento or postre or cremas_y_sopas:
+                        writer.writerow([day, menu_type, cremas_y_sopas, entrante, primero, segundo, acompanamiento, postre, alergenos.strip()])
+                    
+                    # Actualizar el tipo de menú y resetear los valores
                     menu_type = columns[0].text.strip()
+                    cremas_y_sopas = ''
                     entrante = ''
-                    plato_principal = ''
+                    primero = ''
+                    segundo = ''
                     acompanamiento = ''
                     postre = ''
                     alergenos = ''
@@ -50,10 +57,14 @@ with open(output_csv, 'w', newline='', encoding='utf-8') as file:
                     value = columns[1].text.strip()
                     alergen = columns[2].text.strip() if len(columns) > 2 else ''
                     
-                    if category == 'Entrante':
+                    if category == 'Cremas y Sopas':
+                        cremas_y_sopas = value
+                    elif category == 'Entrante':
                         entrante = value
                     elif category == 'Primero':
-                        plato_principal = value
+                        primero = value
+                    elif category == 'Segundo':
+                        segundo = value
                     elif category == 'Acompañamiento':
                         acompanamiento = value
                     elif category == 'Postre':
@@ -62,7 +73,8 @@ with open(output_csv, 'w', newline='', encoding='utf-8') as file:
                     if alergen:
                         alergenos += f"{alergen} "
 
-        if entrante or plato_principal or acompanamiento or postre:
-            writer.writerow([day, menu_type, entrante, plato_principal, acompanamiento, postre, alergenos])
+        # Guardar el último menú del día
+        if primero or segundo or acompanamiento or postre or cremas_y_sopas:
+            writer.writerow([day, menu_type, cremas_y_sopas, entrante, primero, segundo, acompanamiento, postre, alergenos.strip()])
 
 print(f"Información extraída y guardada en {output_csv}")

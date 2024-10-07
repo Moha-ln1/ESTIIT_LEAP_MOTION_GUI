@@ -1,27 +1,21 @@
-Día,Tipo de Menú,Entrante,Plato Principal,Acompañamiento,Postre,Alérgenos
-"VIERNES,  4  DE  OCTUBRE  DE  2024",Menú 1,,Patatas en ajo pollo,,Pera,Gluten  Sulfitos Gluten  Sulfitos Sulfitos 
-"SÁBADO,  5  DE  OCTUBRE  DE  2024",Menú 2,,Patatas en ajo pollo,,Pera,Sulfitos Apio  Sulfitos Gluten  Huevos  Lácteos 
-"SÁBADO,  5  DE  OCTUBRE  DE  2024",Menú 1,Buñuelos de jamón y queso,Huevos a la flamenca,Patatas ali-oli,Manzana,Huevos  Lácteos Huevos Pescado Lácteos  Sulfitos 
-"LUNES,  7  DE  OCTUBRE  DE  2024",Menú 2,,Salteado de garbanzos y acelgas,Patatas ali-oli,Manzana,Huevos  Lácteos Huevos Huevos  Soja 
-"LUNES,  7  DE  OCTUBRE  DE  2024",Menú 1,,"Arroz con chistorra, pollo y verduras",Col frita,Melón,Apio  Sulfitos Apio  Gluten  Lácteos  Pescado  Sulfitos Gluten 
-"MARTES,  8  DE  OCTUBRE  DE  2024",Menú 2,,Arroz con verduras y legumbres,Col frita,Melón,Apio Lácteos  Soja Gluten 
-"MARTES,  8  DE  OCTUBRE  DE  2024",Menú 1,,Ensalada de pasta,Patatas a la brava,Pera,Crustáceos  Gluten  Huevos  Lácteos Gluten  Huevos  Lácteos Apio  Gluten*  Sulfitos 
-"MIÉRCOLES,  9  DE  OCTUBRE  DE  2024",Menú 2,,Ensalada de pasta,Patatas a la brava,Pera,Gluten  Lácteos Gluten  Huevos  Lácteos Apio  Sulfitos 
-"MIÉRCOLES,  9  DE  OCTUBRE  DE  2024",Menú 1,,Tortellini con bacon y champiñones,Menestra de verduras,Manzana,Gluten  Lácteos  Soja  Sulfitos Apio  Gluten  Pescado  Sulfitos Gluten*  Sulfitos 
-"JUEVES,  10  DE  OCTUBRE  DE  2024",Menú 2,,Espaguetis sobre espinacas y crema de queso,Menestra de verduras,Manzana,Gluten  Lácteos  Soja Huevos  Lácteos  Soja Gluten*  Sulfitos 
-"JUEVES,  10  DE  OCTUBRE  DE  2024",Menú 1,Pincho de tortilla de hortalizas con salsa pico de gallo,Estofado de lentejas,,Flan de huevo,Huevos  Lácteos Gluten* Gluten  Sulfitos Huevos  Lácteos 
-"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 2,Pincho de tortilla de hortalizas con salsa pico de gallo,Estofado de lentejas,,Flan de huevo,Huevos  Lácteos Gluten* Sulfitos Huevos  Lácteos 
-"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 1,,Marmitako,Pimientos fritos (VG),Plátano,Pescado  Sulfitos Apio  Gluten  Sulfitos Gluten* 
-"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 2,,Patatas en ajo pollo (VG),Pimientos fritos (VG),Plátano,Apio  Gluten  Sulfitos Huevos  Lácteos Gluten  Huevos  Lácteos Gluten* 
-"VIERNES,  4  DE  OCTUBRE  DE  2024",Menú 1,,"Tortilla de verduras, gambas y jamón",Ensalada japonesa,Pera,Sulfitos Crustáceos  Huevos  Moluscos Crustáceos  Huevos  Moluscos  Pescado  Soja Sulfitos 
-"LUNES,  7  DE  OCTUBRE  DE  2024",Menú 2,,Tortilla de berenjenas,Ensalada,Pera,Sulfitos Huevos 
-"LUNES,  7  DE  OCTUBRE  DE  2024",Menú 1,,"Arroz con chistorra, pollo y verduras",Menestra de verduras (VG),Melón,Apio  Sulfitos Apio  Lácteos  Pescado  Sulfitos Sulfitos 
-"MARTES,  8  DE  OCTUBRE  DE  2024",Menú 2,,Arroz con verduras y legumbres,Menestra de verduras,Melón,Apio Lácteos  Soja 
-"MARTES,  8  DE  OCTUBRE  DE  2024",Menú 1,,Ensalada piamontesa,Patatas a la brava,Pera,Huevos  Lácteos*  Mostaza  Soja  Sulfitos Apio  Sulfitos 
-"MIÉRCOLES,  9  DE  OCTUBRE  DE  2024",Menú 2,,Ensalada piamontesa,Patatas a la brava,Pera,Huevos  Lácteos*  Mostaza  Soja  Sulfitos Huevos  Lácteos  Sulfitos Apio  Sulfitos 
-"MIÉRCOLES,  9  DE  OCTUBRE  DE  2024",Menú 1,,Tortenili con beicon y champiñones,,Manzana,Frutos de cáscara  Huevos  Lácteos  Soja  Sulfitos Crustáceos  Moluscos  Pescado  Sulfitos 
-"JUEVES,  10  DE  OCTUBRE  DE  2024",Menú 2,,Espaguetis sobre espinacas y crema de queso,Menestra de verduras,Manzana,Lácteos  Soja Huevos  Lácteos  Soja Sulfitos 
-"JUEVES,  10  DE  OCTUBRE  DE  2024",Menú 1,Pincho de tortilla de hortalizas con salsa pico de gallo,Estofado de lentejas,,Flan de huevo,Huevos  Lácteos Sulfitos Sulfitos Huevos  Lácteos 
-"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 2,Pincho de tortilla de hortalizas con salsa pico de gallo,Estofado de lentejas,Calabaza en ajillo,Flan de huevo,Huevos  Lácteos Sulfitos Sulfitos Huevos  Lácteos 
-"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 1,,Marmitako,Pimientos fritos,Plátano,Pescado  Sulfitos Apio  Sulfitos 
-"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 2,,Patatas en ajo pollo,Pimientos fritos,Plátano,Apio  Sulfitos Huevos  Lácteos Huevos 
+Día,Tipo de Menú,Cremas y Sopas,Entrante,Primero,Segundo,Acompañamiento,Postre,Alérgenos
+"LUNES,  7  DE  OCTUBRE  DE  2024",Menú 1,,,"Arroz con chistorra, pollo y verduras",Pollo Mozárabe,Col frita,Melón,Apio  Sulfitos Apio  Gluten  Lácteos  Pescado  Sulfitos Gluten
+"MARTES,  8  DE  OCTUBRE  DE  2024",Menú 2,,,Arroz con verduras y legumbres,Tofu con ali-oli de piña gratinado,Col frita,Melón,Apio Lácteos  Soja Gluten
+"MARTES,  8  DE  OCTUBRE  DE  2024",Menú 1,,,Ensalada de pasta,San Jacobo de cerdo,Patatas a la brava,Pera,Crustáceos  Gluten  Huevos  Lácteos Gluten  Huevos  Lácteos Apio  Gluten*  Sulfitos
+"MIÉRCOLES,  9  DE  OCTUBRE  DE  2024",Menú 2,,,Ensalada de pasta,Cachopo de berenjenas,Patatas a la brava,Pera,Gluten  Lácteos Gluten  Huevos  Lácteos Apio  Sulfitos
+"MIÉRCOLES,  9  DE  OCTUBRE  DE  2024",Menú 1,,,Tortellini con bacon y champiñones,Merluza en salsa colbert,Menestra de verduras,Manzana,Gluten  Lácteos  Soja  Sulfitos Apio  Gluten  Pescado  Sulfitos Gluten*  Sulfitos
+"JUEVES,  10  DE  OCTUBRE  DE  2024",Menú 2,,,Espaguetis sobre espinacas y crema de queso,Tortilla de verduras,Menestra de verduras,Manzana,Gluten  Lácteos  Soja Huevos  Lácteos  Soja Gluten*  Sulfitos
+"JUEVES,  10  DE  OCTUBRE  DE  2024",Menú 1,,Pincho de tortilla de hortalizas con salsa pico de gallo,Estofado de lentejas,Caldereta de cerdo,,Flan de huevo,Huevos  Lácteos Gluten* Gluten  Sulfitos Huevos  Lácteos
+"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 2,,Pincho de tortilla de hortalizas con salsa pico de gallo,Estofado de lentejas,Calabaza en ajillo,,Flan de huevo,Huevos  Lácteos Gluten* Sulfitos Huevos  Lácteos
+"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 1,,,Marmitako,Ternera a la carbonada,Pimientos fritos (VG),Plátano,Pescado  Sulfitos Apio  Gluten  Sulfitos Gluten*
+"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 2,,,Patatas en ajo pollo (VG),Croquetas de zanahorias y espinacas,Pimientos fritos (VG),Plátano,Apio  Gluten  Sulfitos Huevos  Lácteos Gluten  Huevos  Lácteos Gluten*
+"LUNES,  7  DE  OCTUBRE  DE  2024",Menú 1,,,"Arroz con chistorra, pollo y verduras",Pollo Mozárabe,Menestra de verduras (VG),Melón,Apio  Sulfitos Apio  Lácteos  Pescado  Sulfitos Sulfitos
+"MARTES,  8  DE  OCTUBRE  DE  2024",Menú 2,,,Arroz con verduras y legumbres,Tofu con ali-oli de piña gratinado,Menestra de verduras,Melón,Apio Lácteos  Soja
+"MARTES,  8  DE  OCTUBRE  DE  2024",Menú 1,,,Ensalada piamontesa,Filete de cerdo a la parrilla,Patatas a la brava,Pera,Huevos  Lácteos*  Mostaza  Soja  Sulfitos Apio  Sulfitos
+"MIÉRCOLES,  9  DE  OCTUBRE  DE  2024",Menú 2,,,Ensalada piamontesa,Revuelto campesino,Patatas a la brava,Pera,Huevos  Lácteos*  Mostaza  Soja  Sulfitos Huevos  Lácteos  Sulfitos Apio  Sulfitos
+"MIÉRCOLES,  9  DE  OCTUBRE  DE  2024",Menú 1,,,Tortenili con beicon y champiñones,Merluza a la vasca,,Manzana,Frutos de cáscara  Huevos  Lácteos  Soja  Sulfitos Crustáceos  Moluscos  Pescado  Sulfitos
+"JUEVES,  10  DE  OCTUBRE  DE  2024",Menú 2,,,Espaguetis sobre espinacas y crema de queso,Tortilla de verduras,Menestra de verduras,Manzana,Lácteos  Soja Huevos  Lácteos  Soja Sulfitos
+"JUEVES,  10  DE  OCTUBRE  DE  2024",Menú 1,,Pincho de tortilla de hortalizas con salsa pico de gallo,Estofado de lentejas,Caldereta de cerdo,,Flan de huevo,Huevos  Lácteos Sulfitos Sulfitos Huevos  Lácteos
+"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 2,,Pincho de tortilla de hortalizas con salsa pico de gallo,Estofado de lentejas,,Calabaza en ajillo,Flan de huevo,Huevos  Lácteos Sulfitos Sulfitos Huevos  Lácteos
+"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 1,,,Marmitako,Ternera a la carbonada,Pimientos fritos,Plátano,Pescado  Sulfitos Apio  Sulfitos
+"VIERNES,  11  DE  OCTUBRE  DE  2024",Menú 2,,,Patatas en ajo pollo,Queso de Burgos en crocanti,Pimientos fritos,Plátano,Apio  Sulfitos Huevos  Lácteos Huevos
