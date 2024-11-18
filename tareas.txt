@@ -1,0 +1,4 @@
+Hay que modificar un poco las clases:
+
+Alumnos:
+- Aniadir la gestion de los subgrupos, modificar la clase y añadir en el databasemodel la gestion del mismo.
