@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/moha/Escritorio/ESTIIT_LEAP_MOTION_GUI/GestionUniversidad.csproj": {}
+    "C:\\Users\\fajar\\Desktop\\carrera\\APUNTES\\5º curso\\NPI\\ESTIIT_LEAP_MOTION_GUI\\GestionUniversidad.csproj": {}
   },
   "projects": {
-    "/home/moha/Escritorio/ESTIIT_LEAP_MOTION_GUI/GestionUniversidad.csproj": {
+    "C:\\Users\\fajar\\Desktop\\carrera\\APUNTES\\5º curso\\NPI\\ESTIIT_LEAP_MOTION_GUI\\GestionUniversidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/moha/Escritorio/ESTIIT_LEAP_MOTION_GUI/GestionUniversidad.csproj",
+        "projectUniqueName": "C:\\Users\\fajar\\Desktop\\carrera\\APUNTES\\5º curso\\NPI\\ESTIIT_LEAP_MOTION_GUI\\GestionUniversidad.csproj",
         "projectName": "GestionUniversidad",
-        "projectPath": "/home/moha/Escritorio/ESTIIT_LEAP_MOTION_GUI/GestionUniversidad.csproj",
-        "packagesPath": "/home/moha/.nuget/packages/",
-        "outputPath": "/home/moha/Escritorio/ESTIIT_LEAP_MOTION_GUI/obj/",
+        "projectPath": "C:\\Users\\fajar\\Desktop\\carrera\\APUNTES\\5º curso\\NPI\\ESTIIT_LEAP_MOTION_GUI\\GestionUniversidad.csproj",
+        "packagesPath": "C:\\Users\\fajar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fajar\\Desktop\\carrera\\APUNTES\\5º curso\\NPI\\ESTIIT_LEAP_MOTION_GUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/moha/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\fajar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +45,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

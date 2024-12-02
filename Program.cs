@@ -22,6 +22,8 @@ class Program
         var menuController = new MenuController(database.Menus);
         var usuarioController = new UsuarioController(database.Usuarios); // Incluyendo gestión de usuarios
 
+        
+
         while (true)
         {
             Console.Clear();
@@ -207,7 +209,8 @@ class Program
         Console.WriteLine("===== Consultar Menú del Comedor =====");
         Console.WriteLine("1. Buscar menú por día");
         Console.WriteLine("2. Filtrar menú por alérgenos");
-        Console.WriteLine("3. Volver");
+        Console.WriteLine("3. Generar QR para pago de menú");
+        Console.WriteLine("4. Volver");
         Console.Write("Seleccione una opción: ");
 
         var opcion = Console.ReadLine();
@@ -224,6 +227,41 @@ class Program
                 var alergenos = Console.ReadLine();
                 var filtrados = menuController.FiltrarPorAlergenos(alergenos);
                 filtrados.ForEach(m => Console.WriteLine(m.ToString()));
+                break;
+            case "3":
+                Console.Write("Ingrese el día del menú: ");
+                var diaMenu = Console.ReadLine();
+                var menusDisponibles = menuController.BuscarPorDia(diaMenu);
+
+                if (menusDisponibles.Count == 0)
+                {
+                    Console.WriteLine("No se encontraron menús para ese día.");
+                    break;
+                }
+
+                Console.WriteLine("Seleccione un menú disponible:");
+                for (int i = 0; i < menusDisponibles.Count; i++)
+                {
+                    Console.WriteLine($"{i + 1}. {menusDisponibles[i].TipoMenu}");
+                }
+
+                Console.Write("Ingrese el número del menú: ");
+                if (!int.TryParse(Console.ReadLine(), out int menuIndex) || menuIndex < 1 || menuIndex > menusDisponibles.Count)
+                {
+                    Console.WriteLine("Selección inválida.");
+                    break;
+                }
+
+                var menuSeleccionado = menusDisponibles[menuIndex - 1];
+
+                Console.Write("Ingrese el nombre del alumno: ");
+                var nombreAlumno = Console.ReadLine();
+
+                // Generar QR para el menú y el alumno
+                var qr = menuController.GenerarQRParaPago(menuSeleccionado, nombreAlumno);
+
+                Console.WriteLine("QR generado con éxito. Escaneando se verá:");
+                Console.WriteLine(System.Text.Encoding.UTF8.GetString(Convert.FromBase64String(qr)));
                 break;
             default:
                 Console.WriteLine("Volviendo...");

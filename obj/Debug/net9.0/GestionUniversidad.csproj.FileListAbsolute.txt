@@ -31,3 +31,21 @@
 /home/moha/Escritorio/ESTIIT_LEAP_MOTION_GUI/obj/Debug/net9.0/GestionUniversidad.pdb
 /home/moha/Escritorio/ESTIIT_LEAP_MOTION_GUI/obj/Debug/net9.0/GestionUniversidad.genruntimeconfig.cache
 /home/moha/Escritorio/ESTIIT_LEAP_MOTION_GUI/obj/Debug/net9.0/ref/GestionUniversidad.dll
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\bin\Debug\net9.0\GestionUniversidad.exe
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\bin\Debug\net9.0\GestionUniversidad.deps.json
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\bin\Debug\net9.0\GestionUniversidad.runtimeconfig.json
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\bin\Debug\net9.0\GestionUniversidad.dll
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\bin\Debug\net9.0\GestionUniversidad.pdb
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionUniversidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionUniversidad.AssemblyInfoInputs.cache
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionUniversidad.AssemblyInfo.cs
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionUniversidad.sourcelink.json
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionUniversidad.dll
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\refint\GestionUniversidad.dll
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionUniversidad.pdb
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionUniversidad.genruntimeconfig.cache
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\ref\GestionUniversidad.dll
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\bin\Debug\net9.0\QRCoder.dll
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionUniversidad.csproj.AssemblyReference.cache
+C:\Users\fajar\Desktop\carrera\APUNTES\5º curso\NPI\ESTIIT_LEAP_MOTION_GUI\obj\Debug\net9.0\GestionU.47886A79.Up2Date

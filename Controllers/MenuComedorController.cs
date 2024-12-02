@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using GestionUniversidad.Models;
+using QRCoder; //librería para la parte de QR
+using System.IO;
 
 public class MenuController
 {
@@ -42,4 +44,17 @@ public class MenuController
         texto = string.Join(" ", texto.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries));
         return texto.Trim().ToLowerInvariant();
     }
+
+    public string GenerarQRParaPago(MenuComedor menu, string alumno)
+    {
+        if (menu == null || string.IsNullOrWhiteSpace(alumno)) //Comprobación de que el menú y el alumno no estén vacíos
+            throw new ArgumentException("El menú y el nombre del alumno no pueden ser nulos o vacíos.");
+
+        // Contenido del QR
+        string contenidoQR = $"Día: {menu.Dia}, Menú: {menu.TipoMenu}, Precio: 4.5€, Alumno: {alumno}";
+
+        // Generar un identificador único basado en el contenido (simulando el QR)
+        return Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(contenidoQR));
+    }
+
 }
