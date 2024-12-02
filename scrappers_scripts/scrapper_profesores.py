@@ -7,7 +7,7 @@ import re
 main_page_url = "https://etsiit.ugr.es/informacion-academica/grados/graduadoa-ingenieria-informatica"
 
 # Nombre del archivo CSV de salida
-output_file = "./data_csv/asignaturas_ugr.csv"
+output_file = "./data/asignaturas_ugr.csv"
 
 # Función para calcular las siglas a partir del nombre de la asignatura
 def calcular_siglas(nombre_asignatura):

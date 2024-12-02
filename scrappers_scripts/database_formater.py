@@ -91,20 +91,20 @@ def guardar_datos(datos, file_path, fieldnames):
 # Ejecución del script
 if __name__ == "__main__":
     # Cargar datos de alumnos y horarios
-    alumnos = cargar_alumnos('./data_csv/alumnos_asignaturas.csv')
-    horarios = cargar_horarios('./data_csv/horarios_ugr.csv')
+    alumnos = cargar_alumnos('./data/alumnos_asignaturas.csv')
+    horarios = cargar_horarios('./data/horarios_ugr.csv')
 
     # Procesar los alumnos para obtener grupos por asignatura y generar nueva tabla de alumnos
     grupos_por_asignatura, alumnos_formateados = procesar_alumnos(alumnos)
 
     # Guardar los alumnos formateados
-    guardar_datos(alumnos_formateados, './data_csv/alumnos_asignaturas.csv', ['Nombre', 'Asignatura', 'Grupo'])
+    guardar_datos(alumnos_formateados, './data/alumnos_asignaturas.csv', ['Nombre', 'Asignatura', 'Grupo'])
 
     # Actualizar los horarios reemplazando la columna 'Grupo'
     horarios_actualizados = actualizar_horarios(horarios)
 
     # Guardar los horarios actualizados
-    guardar_datos(horarios_actualizados, './data_csv/horarios_ugr.csv', horarios[0].keys())
+    guardar_datos(horarios_actualizados, './data/horarios_ugr.csv', horarios[0].keys())
 
     print("Alumnos formateados guardados en 'alumnos_asignaturas.csv'.")
     print("Horarios actualizados guardados en 'horarios_ugr.csv'.")

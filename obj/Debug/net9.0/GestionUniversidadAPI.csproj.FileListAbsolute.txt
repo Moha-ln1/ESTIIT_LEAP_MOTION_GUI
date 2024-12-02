@@ -1,0 +1,4 @@
+/home/moha/GestionUniversidadAPI/obj/Debug/net9.0/GestionUniversidadAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/moha/GestionUniversidadAPI/obj/Debug/net9.0/GestionUniversidadAPI.AssemblyInfoInputs.cache
+/home/moha/GestionUniversidadAPI/obj/Debug/net9.0/GestionUniversidadAPI.AssemblyInfo.cs
+/home/moha/GestionUniversidadAPI/obj/Debug/net9.0/GestionUniversidadAPI.csproj.CoreCompileInputs.cache

@@ -13,7 +13,7 @@ soup = BeautifulSoup(response.content, 'html.parser')
 menus = soup.find_all('table', class_='inline')
 
 # Nombre del archivo CSV de salida
-output_csv = './data_csv/menu_semanal.csv'
+output_csv = './data/menu_semanal.csv'
 
 # Guardar datos en el CSV
 with open(output_csv, 'w', newline='', encoding='utf-8') as file:

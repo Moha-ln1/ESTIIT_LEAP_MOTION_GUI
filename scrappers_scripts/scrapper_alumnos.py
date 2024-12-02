@@ -7,7 +7,7 @@ from PyPDF2 import PdfReader
 pdf_folder = './data_fuentes/Subgrupos'
 
 # Nombre del archivo CSV de salida
-output_csv = './data_csv/alumnos_asignaturas.csv'
+output_csv = './data/alumnos_asignaturas.csv'
 
 # Expresiones regulares para extraer información
 asignatura_re = re.compile(r'^(.*?)\s*Grupo:\s*(\w+)')

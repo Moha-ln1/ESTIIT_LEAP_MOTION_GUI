@@ -1,0 +1,32 @@
+GestionUniversidad/
+├── Models/                       # Modelos de datos
+│   ├── Alumno.cs
+│   ├── Profesor.cs
+│   ├── Horario.cs
+│   ├── MenuComedor.cs
+│   └── Asignatura.cs
+├── Services/                     # Servicios de soporte
+│   ├── CsvDataLoader.cs          # Carga y procesamiento de archivos CSV
+│   └── DatabaseModel.cs          # Modelo central de datos
+├── Controllers/                  # Controladores para cada funcionalidad
+│   ├── AlumnoController.cs
+│   ├── ProfesorController.cs
+│   ├── HorarioController.cs
+│   ├── MenuController.cs
+│   └── AsignaturaController.cs
+├── data/                         # Archivos CSV
+│   ├── alumnos_asignaturas.csv
+│   ├── profesores_ugr.csv
+│   ├── horarios_ugr.csv
+│   └── menu_semanal.csv
+├── data_fuentes/                 # PDF con info de los alumnos
+├── scrappers_scripts/                 # Scrappers html / pdf 
+|   ├── database_formater.py
+|   ├── scrappers_scripts.py
+|   ├── scrappers_alumnos.py 
+|   ├── scrappers_comedores.py
+|   ├── scrappers_horarios.py
+|   └── scrappers_profesores.py
+|   
+├── Program.cs                    # Interfaz textual principal
+└── README.md                     # Documentación del proyecto
