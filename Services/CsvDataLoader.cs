@@ -6,6 +6,19 @@ using GestionUniversidad.Models;
 
 public class CsvDataLoader
 {
+
+
+    public List<Usuario> LoadUsuarios(List<Alumno> alumnos)
+    {
+        var usuarios = new List<Usuario>();
+        foreach (var alumno in alumnos)
+        {
+            var usuario = new Usuario(alumno);
+            usuarios.Add(usuario);
+        }
+        return usuarios;
+    }
+
     public List<Alumno> LoadAlumnos(string filePath)
     {
         var alumnos = new List<Alumno>();

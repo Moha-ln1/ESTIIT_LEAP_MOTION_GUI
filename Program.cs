@@ -20,6 +20,7 @@ class Program
         var profesorController = new ProfesorController(database.Profesores);
         var horarioController = new HorarioController(database.Asignaturas);
         var menuController = new MenuController(database.Menus);
+        var usuarioController = new UsuarioController(database.Usuarios); // Incluyendo gestión de usuarios
 
         while (true)
         {
@@ -29,7 +30,8 @@ class Program
             Console.WriteLine("2. Buscar profesores");
             Console.WriteLine("3. Gestión de horarios");
             Console.WriteLine("4. Consultar menú del comedor");
-            Console.WriteLine("5. Salir");
+            Console.WriteLine("5. Gestión de usuarios"); // Nueva opción
+            Console.WriteLine("6. Salir");
             Console.Write("Seleccione una opción: ");
 
             var opcion = Console.ReadLine();
@@ -49,6 +51,9 @@ class Program
                     ConsultarMenu(menuController);
                     break;
                 case "5":
+                    GestionarUsuarios(usuarioController); // Nueva función de usuarios
+                    break;
+                case "6":
                     Console.WriteLine("Saliendo...");
                     return;
                 default:
@@ -219,6 +224,36 @@ class Program
                 var alergenos = Console.ReadLine();
                 var filtrados = menuController.FiltrarPorAlergenos(alergenos);
                 filtrados.ForEach(m => Console.WriteLine(m.ToString()));
+                break;
+            default:
+                Console.WriteLine("Volviendo...");
+                break;
+        }
+        Console.WriteLine("Presione cualquier tecla para continuar...");
+        Console.ReadKey();
+    }
+
+    static void GestionarUsuarios(UsuarioController usuarioController)
+    {
+        Console.Clear();
+        Console.WriteLine("===== Gestión de Usuarios =====");
+        Console.WriteLine("1. Listar todos los usuarios");
+        Console.WriteLine("2. Buscar usuario por QR");
+        Console.WriteLine("3. Volver");
+        Console.Write("Seleccione una opción: ");
+
+        var opcion = Console.ReadLine();
+        switch (opcion)
+        {
+            case "1":
+                var usuarios = usuarioController.ListarTodos();
+                usuarios.ForEach(u => Console.WriteLine(u.ToString()));
+                break;
+            case "2":
+                Console.Write("Ingrese el QR del usuario: ");
+                var qr = Console.ReadLine();
+                var usuario = usuarioController.BuscarPorQR(qr);
+                Console.WriteLine(usuario != null ? usuario.ToString() : "Usuario no encontrado.");
                 break;
             default:
                 Console.WriteLine("Volviendo...");

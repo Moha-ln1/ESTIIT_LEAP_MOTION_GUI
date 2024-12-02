@@ -34,6 +34,7 @@ GestionUniversidad/
 │   ├── Horario.cs
 │   ├── MenuComedor.cs
 │   └── Asignatura.cs
+│   └── Usuario.cs                #Gestor QR
 ├── Services/                     # Servicios de soporte
 │   ├── CsvDataLoader.cs          # Carga y procesamiento de archivos CSV
 │   └── DatabaseModel.cs          # Modelo central de datos
@@ -43,6 +44,7 @@ GestionUniversidad/
 │   ├── HorarioController.cs
 │   ├── MenuController.cs
 │   └── AsignaturaController.cs
+│   └── UsuarioController.cs
 ├── data/                         # Archivos CSV
 │   ├── alumnos_asignaturas.csv
 │   ├── profesores_ugr.csv
@@ -57,7 +59,7 @@ GestionUniversidad/
 |   ├── scrappers_horarios.py
 |   └── scrappers_profesores.py
 |   
-├── Program.cs                    # Interfaz textual principal
+├── Program.cs                    # Interfaz textual principal (main)
 └── README.md                     # Documentación del proyecto
 ```
 
